@@ -9,6 +9,8 @@ For non-book reading see [[World opinions#Where to find information]]
 
 for more inspiration on what to read visit [casey Handmer's blog](https://caseyhandmer.wordpress.com/2020/07/26/book-reviews/)
 
+table test change
+
 ```dataview
 table without id
 file.link as "Title",
