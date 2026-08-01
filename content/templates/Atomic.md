@@ -1,0 +1,6 @@
+---
+tags:
+  - atomic
+up:
+source:
+---
