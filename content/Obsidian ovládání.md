@@ -46,8 +46,9 @@ tagy mohou být buď volně v textu, nebo v properties daného notu
 link může být součástí property -> když např. chci odkázat na příští note stejného typu můžu si vytvořit property next a uvnitř ní zadat link
 
 
-# Pluginy
+# Quartz
 
-integrace ai?
-languagetool
-tasks plugin
+pro sestavení blogu jako web používám quartz
+pro synchronizaci git repa s quartzem používám obsidian plugin quartz syncer
+
+manual quartz sync -- npx quartz sync
