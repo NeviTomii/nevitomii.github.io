@@ -1,11 +1,12 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: Tomo Zamouřil's blog
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
-    provider: plausible
+    provider: goatcounter
+    websiteId: nevitomii
   locale: en-US
   baseUrl: nevitomii.github.io
   ignorePatterns:
@@ -163,7 +164,7 @@ plugins:
       position: left
       priority: 50
   - source: "@quartz-community/graph"
-    enabled: true
+    enabled: false
     layout:
       position: right
       priority: 10
@@ -273,6 +274,14 @@ plugins:
       darkMode: auto
       exportPadding: 20
     order: 50
+  - source:
+      name: quartz-themes
+      repo: github:saberzero1/quartz-themes
+      subdir: plugin
+    enabled: true
+    order: 50
+    options:
+      theme: dark-castle
 layout:
   groups:
     toolbar:
