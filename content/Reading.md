@@ -9,13 +9,20 @@ For non-book reading see [[World opinions#Where to find information]]
 
 for more inspiration on what to read visit [casey Handmer's blog](https://caseyhandmer.wordpress.com/2020/07/26/book-reviews/)
 
-```dataview
-table without id
-file.link as "Title",
-author, pages
-from #Book AND -"templates" WHERE Read = false
-sort pages desc
-```
+| Title                                                                                                                                                                                                                       | Author          | Pages |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- | ----- |
+| [[Tales of the Dying Earth.md\|Tales of the Dying Earth]]                                                                                                                                                                   | Jack Vance      | 741   |
+| [[How To Get To Earth From Mars Solving The Hard Part First.md\|How To Get To Earth From Mars Solving The Hard Part First]]                                                                                                 | Casey Handmer   | 67    |
+| [[Reading in the Space Space.md\|Reading in the Space Space]]                                                                                                                                                               | Casey Handmer   | 501   |
+| [[Slow Gods.md\|Slow Gods]]                                                                                                                                                                                                 | Claire North    | 438   |
+| [[Apollo Remastered The Ultimate Photographic Record.md\|Apollo Remastered The Ultimate Photographic Record]]                                                                                                               | Andy   Saunders | 432   |
+| [[Accelerando.md\|Accelerando]]                                                                                                                                                                                             | Charles Stross  | 415   |
+| [[Exhalation.md\|Exhalation]]                                                                                                                                                                                               | Ted Chiang      | 368   |
+| [[Sublimia Syndrome.md\|Sublimia Syndrome]]                                                                                                                                                                                 | Exurb1a         | 296   |
+| [[Liftoff Elon Musk and the Desperate Early Days That Launched SpaceX.md\|Liftoff Elon Musk and the Desperate Early Days That Launched SpaceX]]                                                                             | Eric  Berger    | 288   |
+| [[Safe Is Not an Option.md\|Safe Is Not an Option]]                                                                                                                                                                         | Rand Simberg    | 242   |
+| [[How To Industrialize Mars A Strategy For Self-Sufficiency How To Settle A Lethal Vacuum In 400 Easy Steps.md\|How To Industrialize Mars A Strategy For Self-Sufficiency How To Settle A Lethal Vacuum In 400 Easy Steps]] | Casey Handmer   | 117   |
+| [[Poems for the Lost Because I'm Lost Too.md\|Poems for the Lost Because I'm Lost Too]]                                                                                                                                     | Exurb1a         | 114   |
 
 # All books ordered by rating
 
