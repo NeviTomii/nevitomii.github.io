@@ -28,8 +28,8 @@ for more inspiration on what to read visit [casey Handmer's blog](https://caseyh
 
 |Title32|Author|Pages (14,183)|Rating|Times read|
 |---|---|---|---|---|
-|[[The Fifth Science\|The Fifth Science]]|Exurb1a|247|9|2|
 |[[The Prince of Milk\|The Prince of Milk]]|Exurb1a|354|9|2|
+|[[The Fifth Science\|The Fifth Science]]|Exurb1a|247|9|2|
 |[[The Bridge to Lucy Dunne\|The Bridge to Lucy Dunne]]|Exurb1a|166|9|1|
 |[[Star Wars Darth Bane - Path of Destruction\|Star Wars Darth Bane - Path of Destruction]]|Drew Karpyshyn|338|9|1|
 |[[Rule of Two\|Rule of Two]]|Drew Karpyshyn|318|9|1|
@@ -87,8 +87,8 @@ Dataview: No results to show for table query.
 
 |Title16|Author|Pages (7,563)|Rating|Times read|
 |---|---|---|---|---|
-|[[The Fifth Science\|The Fifth Science]]|Exurb1a|247|9|2|
 |[[The Prince of Milk\|The Prince of Milk]]|Exurb1a|354|9|2|
+|[[The Fifth Science\|The Fifth Science]]|Exurb1a|247|9|2|
 |[[Logic Beach Part I\|Logic Beach Part I]]|Exurb1a|203|9|2|
 |[[Geometry for Ocelots\|Geometry for Ocelots]]|Exurb1a|325|9|2|
 |[[There Is No Antimemetics Division\|There Is No Antimemetics Division]]|qntm|220|8|1|
