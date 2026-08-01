@@ -1,11 +1,12 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: "Tomo Zamouřil's blog"
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
-    provider: plausible
+    provider: goatcounter
+    websiteId: nevitomii
   locale: en-US
   baseUrl: nevitomii.github.io
   ignorePatterns:
