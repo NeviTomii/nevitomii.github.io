@@ -52,7 +52,7 @@ plugins:
         - filesystem
     order: 10
   - source: "@quartz-community/syntax-highlighting"
-    enabled: true
+    enabled: false
     options:
       theme:
         light: github-light
@@ -84,6 +84,7 @@ plugins:
     layout:
       position: right
       priority: 30
+    options: {}
   - source: "@quartz-community/crawl-links"
     enabled: true
     options:
@@ -274,14 +275,6 @@ plugins:
       darkMode: auto
       exportPadding: 20
     order: 50
-  - source:
-      name: quartz-themes
-      repo: github:saberzero1/quartz-themes
-      subdir: plugin
-    enabled: true
-    order: 50
-    options:
-      theme: dune
 layout:
   groups:
     toolbar:
