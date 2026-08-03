@@ -1,5 +1,10 @@
 ---
 publish: true
+created: 2026-08-01T17:19:00.205Z
+modified: 2026-08-01T17:11:20.183Z
+published: 2026-08-01T17:11:20.183Z
+up:
+  - "[[Hobbies]]"
 ---
 
 this is a parent note for books, ownership status and wish list will be in the properties, wish list also exported [[Wish list|here]]
