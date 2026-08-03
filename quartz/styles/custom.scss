@@ -1,3 +1,8 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+article a.internal {
+  background-color: transparent;
+  padding: 0;
+  border-radius: 0;
+}
