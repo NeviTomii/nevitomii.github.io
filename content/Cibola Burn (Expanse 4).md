@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-01T17:19:00.131Z
-modified: 2026-08-03T19:47:00.907Z
-published: 2026-08-03T19:47:00.907Z
+created: 2026-08-01T17:19:07.753Z
+modified: 2026-08-03T19:47:00.906Z
+published: 2026-08-03T19:47:00.906Z
 tags: "#Book"
 Title: Cibola Burn
 Author: James S.A. Corey

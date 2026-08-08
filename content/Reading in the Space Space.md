@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-01T17:19:00.204Z
-modified: 2026-08-03T19:48:38.684Z
-published: 2026-08-03T19:48:38.684Z
+created: 2026-08-01T17:19:08.235Z
+modified: 2026-08-03T19:48:38.683Z
+published: 2026-08-03T19:48:38.683Z
 tags: "#Book"
 Title: Reading in the Space Space
 Author: Casey Handmer

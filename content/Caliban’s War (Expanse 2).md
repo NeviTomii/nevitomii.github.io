@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-01T17:19:00.124Z
-modified: 2026-08-03T19:46:56.525Z
-published: 2026-08-03T19:46:56.525Z
+created: 2026-08-01T17:19:09.367Z
+modified: 2026-08-03T19:46:56.524Z
+published: 2026-08-03T19:46:56.524Z
 tags: "#Book"
 Title: Caliban’s War
 Author: James S.A. Corey

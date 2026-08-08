@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-01T17:19:00.174Z
-modified: 2026-08-03T19:48:00.090Z
-published: 2026-08-03T19:48:00.090Z
+created: 2026-08-01T17:19:08.726Z
+modified: 2026-08-03T19:48:00.089Z
+published: 2026-08-03T19:48:00.089Z
 tags: "#Book"
 Title: "Liftoff: Elon Musk and the Desperate Early Days That Launched SpaceX"
 Author: Eric  Berger

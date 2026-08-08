@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-01T17:19:00.184Z
-modified: 2026-08-03T19:48:10.605Z
-published: 2026-08-03T19:48:10.605Z
+created: 2026-08-01T17:19:08.473Z
+modified: 2026-08-03T19:48:10.604Z
+published: 2026-08-03T19:48:10.604Z
 tags: "#Book"
 Title: Memory's Legion
 Author: James S.A. Corey

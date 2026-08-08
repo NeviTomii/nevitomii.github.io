@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-01T17:19:00.206Z
-modified: 2026-08-03T19:48:43.577Z
-published: 2026-08-03T19:48:43.577Z
+created: 2026-08-01T17:19:08.248Z
+modified: 2026-08-03T19:48:43.576Z
+published: 2026-08-03T19:48:43.576Z
 tags: "#Book"
 Title: Red Mars
 Author: Kim Stanley Robinson

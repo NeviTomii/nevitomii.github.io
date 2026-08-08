@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-01T17:19:00.136Z
-modified: 2026-08-03T19:47:05.312Z
-published: 2026-08-03T19:47:05.312Z
+created: 2026-08-01T17:19:08.629Z
+modified: 2026-08-03T19:47:05.311Z
+published: 2026-08-03T19:47:05.311Z
 tags: "#Book"
 Title: Darth Plagueis
 Author: James Luceno

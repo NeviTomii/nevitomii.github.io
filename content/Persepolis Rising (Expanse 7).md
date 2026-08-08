@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-01T17:19:00.196Z
-modified: 2026-08-03T19:48:25.491Z
-published: 2026-08-03T19:48:25.491Z
+created: 2026-08-01T17:19:08.040Z
+modified: 2026-08-03T19:48:25.490Z
+published: 2026-08-03T19:48:25.490Z
 tags: "#Book"
 Title: Persepolis Rising
 Author: James S.A. Corey

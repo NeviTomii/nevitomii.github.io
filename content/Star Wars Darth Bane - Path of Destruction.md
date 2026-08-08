@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-01T17:19:00.217Z
-modified: 2026-08-03T19:49:07.047Z
-published: 2026-08-03T19:49:07.047Z
+created: 2026-08-01T17:19:09.299Z
+modified: 2026-08-03T19:49:07.046Z
+published: 2026-08-03T19:49:07.046Z
 tags: "#Book"
 Title: "Star Wars: Darth Bane - Path of Destruction"
 Author: Drew Karpyshyn

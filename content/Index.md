@@ -1,13 +1,13 @@
 ---
 publish: true
-created: 2026-08-01T17:19:00.167Z
-modified: 2026-08-03T20:05:44.409Z
-published: 2026-08-03T20:05:44.409Z
+created: 2026-08-01T17:19:09.147Z
+modified: 2026-08-08T13:17:31.340Z
+published: 2026-08-08T13:17:31.340Z
 up:
-Title: Hi, I'm Tomo
+Title: "\"Hi, I'm Tomo\""
 ---
 
-My name full name is Tomáš Zamouřil. I work as an accountant and in my free time I like to explore whatever [[Hobbies|captures my interest]]
+My full name is Tomáš Zamouřil. I work as an accountant and in my free time I like to explore whatever [[Hobbies|captures my interest]]
 
 I am good at forgetting things, so I made this note vault to preserve ideas worth remembering. Those over time develop into [[Zettelkasten|Opinions]], and those with some (huge amounts of) luck later become [[Blogposts]].
 
