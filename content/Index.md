@@ -1,10 +1,10 @@
 ---
 publish: true
+title: Hi, I'm Tomo
 created: 2026-08-01T17:19:09.147Z
-modified: 2026-08-08T13:17:31.340Z
-published: 2026-08-08T13:17:31.340Z
+modified: 2026-08-08T13:26:22.523Z
+published: 2026-08-08T13:26:22.523Z
 up:
-Title: "\"Hi, I'm Tomo\""
 ---
 
 My full name is Tomáš Zamouřil. I work as an accountant and in my free time I like to explore whatever [[Hobbies|captures my interest]]
