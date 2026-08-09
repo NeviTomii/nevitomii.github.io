@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-01T17:19:00.212Z
-modified: 2026-08-03T19:48:57.806Z
-published: 2026-08-03T19:48:57.806Z
+modified: 2026-08-09T13:07:31.730Z
+published: 2026-08-09T13:07:31.730Z
 tags: "#Book"
 Title: Safe Is Not an Option
 Author: Rand Simberg

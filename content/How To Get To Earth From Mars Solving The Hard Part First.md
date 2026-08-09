@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-01T17:19:00.161Z
-modified: 2026-08-03T19:47:38.041Z
-published: 2026-08-03T19:47:38.041Z
+modified: 2026-08-09T13:07:57.891Z
+published: 2026-08-09T13:07:57.891Z
 tags: "#Book"
 Title: "How To Get To Earth From Mars: Solving The Hard Part First"
 Author: Casey Handmer

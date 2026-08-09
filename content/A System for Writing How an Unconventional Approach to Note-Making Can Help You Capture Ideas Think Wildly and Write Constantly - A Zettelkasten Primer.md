@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-01T17:19:00.107Z
-modified: 2026-08-03T19:46:15.297Z
-published: 2026-08-03T19:46:15.297Z
+modified: 2026-08-09T13:09:18.477Z
+published: 2026-08-09T13:09:18.477Z
 tags:
   - "#Book"
   - reference

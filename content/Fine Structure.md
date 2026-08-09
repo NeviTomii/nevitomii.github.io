@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-01T17:19:00.142Z
-modified: 2026-08-03T19:47:18.711Z
-published: 2026-08-03T19:47:18.711Z
+modified: 2026-08-09T13:08:10.143Z
+published: 2026-08-09T13:08:10.143Z
 tags: "#Book"
 Title: Fine Structure
 Author: qntm

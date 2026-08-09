@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-01T17:19:00.172Z
-modified: 2026-08-03T19:47:49.528Z
-published: 2026-08-03T19:47:49.528Z
+modified: 2026-08-09T13:07:43.813Z
+published: 2026-08-09T13:07:43.813Z
 tags: "#Book"
 Title: Leviathan Falls
 Author: James S.A. Corey

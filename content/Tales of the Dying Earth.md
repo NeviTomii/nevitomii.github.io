@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-01T17:19:00.223Z
-modified: 2026-08-03T19:49:16.290Z
-published: 2026-08-03T19:49:16.290Z
+modified: 2026-08-09T13:07:28.964Z
+published: 2026-08-09T13:07:28.964Z
 tags: "#Book"
 Title: Tales of the Dying Earth
 Author: Jack Vance

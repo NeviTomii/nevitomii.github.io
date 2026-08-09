@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-02T13:38:16.520Z
-modified: 2026-08-03T19:33:54.827Z
-published: 2026-08-03T19:33:54.827Z
+modified: 2026-08-09T13:09:53.857Z
+published: 2026-08-09T13:09:53.857Z
 tags:
   - atomic
   - topic/learning

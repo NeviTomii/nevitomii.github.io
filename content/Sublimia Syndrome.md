@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-01T17:19:00.221Z
-modified: 2026-08-03T19:49:11.990Z
+modified: 2026-08-09T13:07:29.593Z
 published: 2025/08/29
 tags: "#Book"
 Title: Sublimia Syndrome
