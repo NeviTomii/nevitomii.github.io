@@ -256,9 +256,22 @@ plugins:
     options:
       includeAll: false
       includedProperties:
-        - description
-        - tags
-        - aliases
+        - Title
+        - Author
+        - Description
+        - Pages
+        - Genre
+        - isbn 10
+        - isbn 13
+        - Asin
+        - Published
+        - Cover
+        - Link
+        - Own
+        - Read
+        - years-read
+        - rating
+        - want-to-buy
       excludedProperties: []
       hidePropertiesView: false
       delimiters: ---
