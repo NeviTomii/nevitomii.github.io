@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-02T13:38:16.520Z
-modified: 2026-08-09T18:23:42.380Z
-published: 2026-08-09T18:23:42.380Z
+modified: 2026-08-09T20:05:53.833Z
+published: 2026-08-09T20:05:53.833Z
 tags:
   - atomic
   - topic/learning
@@ -21,4 +21,4 @@ it is very important to be always learning. We learn by remembering things and t
 
 # See also
 
-[[How to learn using obsidian]]
+[[How to learn using obsidian]] for notekeeping workflow

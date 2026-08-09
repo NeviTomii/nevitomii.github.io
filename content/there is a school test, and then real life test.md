@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-01T17:19:00.235Z
-modified: 2026-08-09T18:24:08.565Z
-published: 2026-08-09T18:24:08.565Z
+modified: 2026-08-09T20:05:11.737Z
+published: 2026-08-09T20:05:11.737Z
 tags:
   - atomic
   - topic/learning
@@ -21,7 +21,7 @@ It is important to learn [[How to learn using obsidian|How to learn]], so that w
 
 # See also
 
-[[We learn by remembering]]
+[[We learn by remembering]] for connection with memory
 
 # Sources
 

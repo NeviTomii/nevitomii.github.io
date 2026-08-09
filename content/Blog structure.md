@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T19:22:48.399Z
-modified: 2026-08-09T19:30:50.035Z
-published: 2026-08-09T19:30:50.035Z
+modified: 2026-08-09T19:57:42.920Z
+published: 2026-08-09T19:57:42.920Z
 up:
   - "[[Index]]"
 ---
@@ -13,13 +13,14 @@ My notes are based in [obsidian](https://obsidian.md/). This was largely inspire
 
 Most important plugins are:
 
-- **Spaced repetition** - reviewing notes in the [[Zettelkasten]] system
-- **Virt folder** - structuring notes without using folders or tags, prioritizing links instead. This also enables me to have one note in multiple "virtual folders"
-- **Quartz Syncer** - for separating private and public notes and rendering dataview tables on the website
-
-When using quartz syncer, it is important to create a [sparse checkout](https://git-scm.com/docs/git-sparse-checkout) for editing config files. Otherwise you will run into conflicts between local repo obsidian notes and remote repo site ready markdowns
-
-also make sure to use dataview codeblocks using backticks, otherwise quartz syncer doesn't serialize the queries
+- **Spaced repetition**
+  reviewing notes in the [[Zettelkasten]] system
+- **Virt folder**
+  structuring notes without using folders or tags, prioritizing links instead. This also enables me to have one note in multiple "virtual folders"
+- **Quartz Syncer**
+  - for separating private and public notes and rendering dataview tables on the website
+  - When using quartz syncer, it is important to create a [sparse checkout](https://git-scm.com/docs/git-sparse-checkout) for editing config files. Otherwise you will run into conflicts between local repo obsidian notes and remote repo site ready markdowns
+  - make sure to use dataview codeblocks using backticks instead of tildes, otherwise quartz syncer doesn't serialize the queries
 
 ---
 
@@ -37,7 +38,7 @@ To have the explorer use the virtual folder tree instead of the regulars folders
 
 To be able to access notes on my laptop and on my phone, I have my local repo in a folder synced using Google drive.
 
-To be able to edit notes using obsidian on the phone, i found an app called [Foldersync](https://foldersync.io/). This can schedule periodic syncs between google drive and a local folder. (make sure to enable deletions in the sync settings)
+To be able to edit notes using obsidian on the phone, i found an app called [Foldersync](https://foldersync.io/). This can schedule periodic syncs between google drive and a local folder. (make sure to enable deletions in sync settings)
 
 ---
 

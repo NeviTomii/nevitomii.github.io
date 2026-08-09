@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-08-01T17:19:36.713Z
-modified: 2026-08-09T18:22:00.988Z
-published: 2026-08-09T18:22:00.988Z
+modified: 2026-08-09T20:03:30.487Z
+published: 2026-08-09T20:03:30.487Z
 ---
 
 [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) is a note management system emphasizing links instead of folders. It is a scalable tool for learning, remembering and writing
 
-What you see below are atomic notes - "tweet"-sized bits of information and opinions I find interesting.
+What you see below are atomic notes - "tweet"sized pieces of information and opinions I find interesting.
 
 To learn how to use Zettelkasten see [[How to learn using obsidian]]
 
