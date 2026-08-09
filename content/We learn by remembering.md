@@ -1,12 +1,11 @@
 ---
 publish: true
 created: 2026-08-02T13:38:16.520Z
-modified: 2026-08-09T13:09:53.857Z
-published: 2026-08-09T13:09:53.857Z
+modified: 2026-08-09T18:23:42.380Z
+published: 2026-08-09T18:23:42.380Z
 tags:
   - atomic
   - topic/learning
-source:
 up:
   - "[[there is a school test, and then real life test]]"
 sr-due: 2026-08-12

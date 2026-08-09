@@ -1,12 +1,10 @@
 ---
 publish: true
 created: 2026-08-01T17:19:00.224Z
-modified: 2026-08-03T19:43:58.717Z
-published: 2026-08-03T19:43:58.717Z
+modified: 2026-08-09T18:24:26.267Z
+published: 2026-08-09T18:24:26.267Z
 up:
   - "[[My recipes]]"
-source:
-  - https://youtu.be/vpRV_Pvlczw?si=xF36p2TYBpMqGdSt
 ---
 
 možná to nezkaramelizovalo protože byl moc velkej hrnec
@@ -36,3 +34,7 @@ zkusit ještě jednou s mín cukrem a dělat dýl, pokud nevyjde můžu místo p
 - do těsta udělam nožem pár dírek
 - podle receptu se bude dělat 3 hodiny, zkontrolovat po třech apak bude potřeba dalších 30 až 60 minut
 - zbytek listového těsta můžu použít na [[pizza šnek]]
+
+# Sources
+
+https://youtu.be/vpRV\_Pvlczw?si=xF36p2TYBpMqGdSt

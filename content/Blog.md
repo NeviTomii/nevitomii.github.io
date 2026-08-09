@@ -1,8 +1,11 @@
 ---
 publish: true
 created: 2026-08-03T19:19:03.497Z
-modified: 2026-08-09T17:54:14.930Z
-published: 2026-08-09T17:54:14.930Z
+modified: 2026-08-09T18:32:54.695Z
+published: 2026-08-09T18:32:54.695Z
+cssclasses:
+  - hideDate
+  - hideReadTime
 ---
 
 # List of all posts

@@ -1,18 +1,18 @@
 ---
 publish: true
 created: 2026-08-01T17:19:00.205Z
-modified: 2026-08-09T13:09:26.794Z
-published: 2026-08-09T13:09:26.794Z
+modified: 2026-08-09T17:57:52.947Z
+published: 2026-08-09T17:57:52.947Z
 up:
   - "[[Hobbies]]"
 ---
 
-this is a parent note for books, ownership status and wish list will be in the properties, wish list also exported [[Wish list|here]]
+See properties for data on each book.
 For non-book reading see [[World opinions#Where to find information]]
 
 # Books I want to read
 
-for more inspiration on what to read visit [casey Handmer's blog](https://caseyhandmer.wordpress.com/2020/07/26/book-reviews/)
+for more inspiration on what to read next visit [casey Handmer's blog](https://caseyhandmer.wordpress.com/2020/07/26/book-reviews/)
 
 | Title                                                                                                                                                                                                                       | Author          | Pages |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- | ----- |
