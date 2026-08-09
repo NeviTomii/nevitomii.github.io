@@ -2,8 +2,8 @@
 publish: true
 title: Hi, I'm Tomo
 created: 2026-08-09T09:37:37.140Z
-modified: 2026-08-09T19:04:57.005Z
-published: 2026-08-09T19:04:57.005Z
+modified: 2026-08-09T19:06:48.398Z
+published: 2026-08-09T19:06:48.398Z
 cssclasses:
   - hideReadTime
   - hideDate
@@ -16,20 +16,12 @@ I am good at forgetting things, so I made this note vault to preserve ideas wort
 
 You can reach me on [X](https://x.com/NeviTomii), or by email at tomas.zamouril@gmail.com
 
-| File                                                                                                                                                                                                                                                  | Created                    |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
-| [[udělat zpusob jak filtrovat blogposts podle topicu.md\|udělat zpusob jak filtrovat blogposts podle topicu]]                                                                                                                                         | 8:05 PM - August 09, 2026  |
-| [[je cool že můžu vidělávat x procent nad medianem a díky tomu si dovolit hypoteku a zaplatit nekomu aby mi postavil dum.md\|je cool že můžu vidělávat x procent nad medianem a díky tomu si dovolit hypoteku a zaplatit nekomu aby mi postavil dum]] | 12:37 PM - August 09, 2026 |
-| [[singularity.md\|singularity]]                                                                                                                                                                                                                       | 12:01 PM - August 09, 2026 |
-
 ## Most recent blogposts
 
 ```dataview
-TABLE WITHOUT ID
-  file.link AS "Name",
-  dateformat(file.ctime, "MMM dd, yyyy") AS "Created"
+TABLE dateformat(file.ctime, "MMM dd, yyyy") AS "Created"
 FROM [[Blog]]
-WHERE contains(up, [[Blog]])
+WHERE up
 SORT file.ctime DESC
 LIMIT 3
 ```
