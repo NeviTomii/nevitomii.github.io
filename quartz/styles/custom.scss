@@ -7,6 +7,22 @@ body article a.internal.internal-link {
   border-radius: 0;
 }
 
+/* Hide metadata for homepage only */
 body[data-slug="index"] .content-meta {
   display: none;
+}
+
+/* Hide published date */
+.hideDate .content-meta > time {
+  display: none;
+}
+
+/* Hide reading time */
+.hideReadTime .content-meta > span {
+  display: none;
+}
+
+/* Remove the comma left after the date */
+.hideReadTime .content-meta > time::after {
+  content: none !important;
 }
