@@ -1,13 +1,12 @@
 ---
 publish: true
 created: 2026-08-02T13:38:16.161Z
-modified: 2026-08-09T13:10:02.545Z
-published: 2026-08-09T13:10:02.545Z
+modified: 2026-08-09T18:25:34.590Z
+published: 2026-08-09T18:25:34.590Z
 tags:
   - atomic
   - topic/learning
   - topic/organisation
-source:
 sr-due: 2026-09-07
 sr-interval: 35
 sr-ease: 270
