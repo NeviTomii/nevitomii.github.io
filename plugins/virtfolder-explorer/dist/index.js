@@ -94,7 +94,7 @@ function buildVirtFolderTree(node) {
 }
 
 const revealActiveBranch = `
-(() => {
+;(() => {
   if (window.__virtFolderRevealInstalled) return
   window.__virtFolderRevealInstalled = true
 

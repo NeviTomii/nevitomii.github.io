@@ -147,7 +147,7 @@ export function buildVirtFolderTree(node: FileTrieNode): FileTrieNode {
 }
 
 const revealActiveBranch = `
-(() => {
+;(() => {
   if (window.__virtFolderRevealInstalled) return
   window.__virtFolderRevealInstalled = true
 
