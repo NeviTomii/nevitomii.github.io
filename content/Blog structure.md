@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T19:22:48.399Z
-modified: 2026-08-09T19:57:42.920Z
-published: 2026-08-09T19:57:42.920Z
+modified: 2026-08-09T20:25:14.650Z
+published: 2026-08-09T20:25:14.650Z
 up:
   - "[[Index]]"
 ---
@@ -14,9 +14,9 @@ My notes are based in [obsidian](https://obsidian.md/). This was largely inspire
 Most important plugins are:
 
 - **Spaced repetition**
-  reviewing notes in the [[Zettelkasten]] system
+  - reviewing notes in the [[Zettelkasten]] system
 - **Virt folder**
-  structuring notes without using folders or tags, prioritizing links instead. This also enables me to have one note in multiple "virtual folders"
+  - structuring notes without using folders or tags, prioritizing links instead. This also enables me to have one note in multiple "virtual folders"
 - **Quartz Syncer**
   - for separating private and public notes and rendering dataview tables on the website
   - When using quartz syncer, it is important to create a [sparse checkout](https://git-scm.com/docs/git-sparse-checkout) for editing config files. Otherwise you will run into conflicts between local repo obsidian notes and remote repo site ready markdowns
