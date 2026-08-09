@@ -1,9 +1,9 @@
 ---
 publish: true
 title: Hi, I'm Tomo
-created: 2026-08-01T17:19:09.147Z
-modified: 2026-08-08T13:26:22.523Z
-published: 2026-08-08T13:26:22.523Z
+created: 2026-08-09T09:37:37.140Z
+modified: 2026-08-08T13:26:29.761Z
+published: 2026-08-08T13:26:29.761Z
 up:
 ---
 

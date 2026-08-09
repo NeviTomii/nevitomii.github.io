@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-01T17:19:08.117Z
-modified: 2026-08-03T19:43:27.995Z
-published: 2026-08-03T19:43:27.995Z
+created: 2026-08-02T13:38:16.050Z
+modified: 2026-08-03T19:43:27.996Z
+published: 2026-08-03T19:43:27.996Z
 up:
   - "[[My recipes]]"
 ---

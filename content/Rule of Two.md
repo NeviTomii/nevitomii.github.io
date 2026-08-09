@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-01T17:19:08.520Z
-modified: 2026-08-03T19:48:53.501Z
-published: 2026-08-03T19:48:53.501Z
+created: 2026-08-01T17:19:00.210Z
+modified: 2026-08-03T19:48:53.502Z
+published: 2026-08-03T19:48:53.502Z
 tags: "#Book"
 Title: Rule of Two
 Author: Drew Karpyshyn

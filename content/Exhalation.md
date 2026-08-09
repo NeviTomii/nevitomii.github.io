@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-01T17:19:07.835Z
-modified: 2026-08-03T19:47:13.867Z
-published: 2026-08-03T19:47:13.867Z
+created: 2026-08-01T17:19:00.141Z
+modified: 2026-08-03T19:47:13.868Z
+published: 2026-08-03T19:47:13.868Z
 tags: "#Book"
 Title: Exhalation
 Author: Ted Chiang

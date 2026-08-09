@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-01T17:19:08.766Z
-modified: 2026-08-03T19:46:47.851Z
-published: 2026-08-03T19:46:47.851Z
+created: 2026-08-01T17:19:00.118Z
+modified: 2026-08-03T19:46:47.852Z
+published: 2026-08-03T19:46:47.852Z
 tags: "#Book"
 Title: Blindsight
 Author: Peter Watts

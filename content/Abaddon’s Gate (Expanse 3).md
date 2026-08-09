@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-01T17:19:08.105Z
-modified: 2026-08-03T19:46:23.651Z
-published: 2026-08-03T19:46:23.651Z
+created: 2026-08-01T17:19:00.109Z
+modified: 2026-08-03T19:46:23.652Z
+published: 2026-08-03T19:46:23.652Z
 tags: "#Book"
 Title: Abaddon’s Gate
 Author: James S.A. Corey
