@@ -2,8 +2,8 @@
 publish: true
 title: Hi, I'm Tomo
 created: 2026-08-09T09:37:37.140Z
-modified: 2026-08-09T19:32:39.596Z
-published: 2026-08-09T19:32:39.596Z
+modified: 2026-08-09T19:34:43.430Z
+published: 2026-08-09T19:34:43.430Z
 cssclasses:
   - hideReadTime
   - hideDate
@@ -15,6 +15,8 @@ My full name is Tomáš Zamouřil. I work as an accountant and in my free time I
 I am good at forgetting things, so I made this note vault to preserve ideas worth remembering. Those over time develop into [[Zettelkasten|Opinions]], and those with some (huge amounts of) luck later become [[Blog|Blogposts]].
 
 You can reach me on [X](https://x.com/NeviTomii), or by email at tomas.zamouril@gmail.com
+
+---
 
 ## Most recent blogposts
 
