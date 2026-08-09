@@ -1,0 +1,48 @@
+{
+  "name": "@nevitomii/virtfolder-content-index",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    }
+  },
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsup"
+  },
+  "dependencies": {
+    "@quartz-community/content-index": "^0.1.0",
+    "@quartz-community/types": "^0.3.0"
+  },
+  "devDependencies": {
+    "tsup": "^8.5.0",
+    "typescript": "^5.9.3"
+  },
+  "quartz": {
+    "name": "virtfolder-content-index",
+    "displayName": "VirtFolder Content Index",
+    "category": "emitter",
+    "version": "0.1.0",
+    "quartzVersion": ">=5.0.0",
+    "dependencies": [
+      "@quartz-community/content-index"
+    ],
+    "defaultOrder": 50,
+    "defaultEnabled": true,
+    "defaultOptions": {
+      "enableSiteMap": true,
+      "enableRSS": true,
+      "rssLimit": 10,
+      "rssFullHtml": false,
+      "rssSlug": "index",
+      "includeEmptyFiles": true
+    }
+  }
+}

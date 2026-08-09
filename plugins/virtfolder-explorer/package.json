@@ -1,0 +1,60 @@
+{
+  "name": "@nevitomii/virtfolder-explorer",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    },
+    "./components": {
+      "types": "./dist/components/index.d.ts",
+      "import": "./dist/components/index.js"
+    }
+  },
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsup",
+    "test": "node --test test/*.test.js"
+  },
+  "dependencies": {
+    "@quartz-community/explorer": "^0.1.0",
+    "@quartz-community/types": "^0.3.0"
+  },
+  "devDependencies": {
+    "tsup": "^8.5.0",
+    "typescript": "^5.9.3"
+  },
+  "quartz": {
+    "name": "virtfolder-explorer",
+    "displayName": "VirtFolder Explorer",
+    "category": "component",
+    "version": "0.1.0",
+    "quartzVersion": ">=5.0.0",
+    "dependencies": [
+      "@quartz-community/explorer",
+      "virtfolder-content-index"
+    ],
+    "defaultOrder": 50,
+    "defaultEnabled": true,
+    "defaultOptions": {
+      "folderDefaultState": "collapsed",
+      "folderClickBehavior": "link",
+      "useSavedState": true
+    },
+    "components": {
+      "VirtFolderExplorer": {
+        "displayName": "VirtFolder Explorer",
+        "description": "Explorer hierarchy generated from Obsidian VirtFolder up properties.",
+        "version": "0.1.0",
+        "defaultPosition": "left",
+        "defaultPriority": 50
+      }
+    }
+  }
+}
