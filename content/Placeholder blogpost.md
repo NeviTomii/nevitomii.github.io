@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2026-08-03T19:19:38.954Z
-modified: 2026-08-09T19:38:00.783Z
-published: 2026-08-09T19:38:00.783Z
+modified: 2026-08-09T19:50:53.968Z
+published: 2026-08-09T19:50:53.968Z
 up:
   - "[[Blog]]"
-Cover: "[[Placeholder blogpost.png]]"
-Description: ahoj tohle je description
+blogCover: "[[Placeholder blogpost.png]]"
+blogDescription: ahoj tohle je description
 ---
 
 ahoj ahoj ahoj

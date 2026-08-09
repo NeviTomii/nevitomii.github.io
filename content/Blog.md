@@ -1,15 +1,13 @@
 ---
 publish: true
 created: 2026-08-03T19:19:03.497Z
-modified: 2026-08-09T19:41:54.070Z
-published: 2026-08-09T19:41:54.070Z
+modified: 2026-08-09T19:51:08.363Z
+published: 2026-08-09T19:51:08.363Z
 cssclasses:
   - hideDate
   - hideReadTime
   - blog-list
 ---
-
-# List of all posts
 
 | Cover                                                   | Title                                             | Created        | Description               |
 | ------------------------------------------------------- | ------------------------------------------------- | -------------- | ------------------------- |
