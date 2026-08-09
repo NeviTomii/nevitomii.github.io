@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T19:22:48.399Z
-modified: 2026-08-09T16:14:03.964Z
-published: 2026-08-09T16:14:03.964Z
+modified: 2026-08-09T16:21:29.301Z
+published: 2026-08-09T16:21:29.301Z
 up:
   - "[[Index]]"
 ---
@@ -23,7 +23,7 @@ Most important plugins are:
 
 My website is hosted on github pages, this is also free, setup is covered in the [quartz guides](https://quartz.jzhao.xyz/hosting)
 
-To have the explorer use the virtual folder tree instead of the regulars folders, I forced codex to make me a [custom plugin](https://github.com/NeviTomii/nevitomii.github.io/tree/v5/plugins). From my limited coding knowledge you should be able to just drag and drop into your  quartz repo
+To have the explorer use the virtual folder tree instead of the regulars folders, I forced codex to make me a [custom plugin](https://github.com/NeviTomii/nevitomii.github.io/tree/v5/plugins). From my limited coding knowledge you should be able to just drag and drop into your  quartz repo, but know that it usually breaks anytime I change the structure of my notes
 
 # Multiple devices
 
