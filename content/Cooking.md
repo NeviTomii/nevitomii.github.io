@@ -1,8 +1,10 @@
 ---
 publish: true
 created: 2026-08-01T17:19:00.133Z
-modified: 2026-08-03T19:42:55.888Z
-published: 2026-08-03T19:42:55.888Z
+modified: 2026-08-09T12:41:11.570Z
+published: 2026-08-09T12:41:11.570Z
+cssclasses:
+  - hideReadTime
 up:
   - "[[Hobbies]]"
 ---
