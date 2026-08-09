@@ -7,11 +7,6 @@ body article a.internal.internal-link {
   border-radius: 0;
 }
 
-/* Hide metadata for homepage only */
-body[data-slug="index"] .content-meta {
-  display: none;
-}
-
 /* Hide published date */
 body:has(article.hideDate) .content-meta > time {
   display: none;
