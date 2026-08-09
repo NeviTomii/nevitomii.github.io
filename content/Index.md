@@ -2,8 +2,8 @@
 publish: true
 title: Hi, I'm Tomo
 created: 2026-08-09T09:37:37.140Z
-modified: 2026-08-09T19:31:12.782Z
-published: 2026-08-09T19:31:12.782Z
+modified: 2026-08-09T19:32:39.596Z
+published: 2026-08-09T19:32:39.596Z
 cssclasses:
   - hideReadTime
   - hideDate
@@ -18,9 +18,9 @@ You can reach me on [X](https://x.com/NeviTomii), or by email at tomas.zamouril@
 
 ## Most recent blogposts
 
-|Name1|Created|
-|---|---|
-|[[Placeholder blogpost\|Placeholder blogpost]]|Aug 03, 2026|
+| Name                                              | Created      |
+| ------------------------------------------------- | ------------ |
+| [[Placeholder blogpost.md\|Placeholder blogpost]] | Aug 03, 2026 |
 
 ### Click [[Blog|Here]] for more
 

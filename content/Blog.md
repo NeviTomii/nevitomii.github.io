@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T19:19:03.497Z
-modified: 2026-08-09T19:19:37.071Z
-published: 2026-08-09T19:19:37.071Z
+modified: 2026-08-09T19:33:18.366Z
+published: 2026-08-09T19:33:18.366Z
 cssclasses:
   - hideDate
   - hideReadTime
@@ -10,17 +10,6 @@ cssclasses:
 
 # List of all posts
 
-```dataviewjs
-const blogposts = dv.pages('[[Blog]]')
-  .where(page => page.up)
-  .sort(page => page.file.ctime, "desc")
-  .array();
-
-dv.table(
-  ["Name", "Created"],
-  blogposts.map(page => [
-    page.file.link,
-    page.file.ctime.toFormat("MMM dd, yyyy")
-  ])
-);
-```
+| Name                                              | Created      |
+| ------------------------------------------------- | ------------ |
+| [[Placeholder blogpost.md\|Placeholder blogpost]] | Aug 03, 2026 |
