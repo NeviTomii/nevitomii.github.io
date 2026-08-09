@@ -1,11 +1,9 @@
 ---
 publish: true
 created: 2026-08-07T10:41:06.848Z
-modified: 2026-08-09T16:12:34.109Z
-published: 2026-08-09T16:12:34.109Z
+modified: 2026-08-09T17:30:47.313Z
+published: 2026-08-09T17:30:47.313Z
 tags:
-up:
-  - "[[Personal]]"
 ---
 
 It feels wrong that only big data brokers have information on what I’m up to, so here’s a list of hobbies for all the humans:
