@@ -1,0 +1,60 @@
+{
+  "name": "@nevitomii/date-content-meta",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    }
+  },
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsup"
+  },
+  "dependencies": {
+    "@quartz-community/content-meta": "^0.1.0",
+    "@quartz-community/types": "^0.3.0",
+    "preact": "^10.0.0"
+  },
+  "devDependencies": {
+    "tsup": "^8.5.0",
+    "typescript": "^5.9.3"
+  },
+  "quartz": {
+    "name": "date-content-meta",
+    "displayName": "Date Content Meta",
+    "category": "component",
+    "version": "0.1.0",
+    "quartzVersion": ">=5.0.0",
+    "dependencies": [],
+    "defaultOrder": 50,
+    "defaultEnabled": true,
+    "defaultOptions": {
+      "showReadingTime": true,
+      "showComma": true
+    },
+    "components": {
+      "DateContentMeta": {
+        "displayName": "Date Content Meta",
+        "description": "Displays created and modified dates alongside reading time.",
+        "version": "0.1.0",
+        "defaultPosition": "beforeBody",
+        "defaultPriority": 20
+      }
+    },
+    "optionSchema": {
+      "showReadingTime": {
+        "type": "boolean"
+      },
+      "showComma": {
+        "type": "boolean"
+      }
+    }
+  }
+}
