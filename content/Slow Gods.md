@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-01T17:19:00.214Z
-modified: 2026-08-03T19:49:02.841Z
-published: 2026-08-03T19:49:02.841Z
+modified: 2026-08-09T13:07:31.112Z
+published: 2026-08-09T13:07:31.112Z
 tags: "#Book"
 Title: Slow Gods
 Author: Claire North

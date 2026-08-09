@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-01T17:19:00.120Z
-modified: 2026-08-03T19:46:52.392Z
-published: 2026-08-03T19:46:52.392Z
+modified: 2026-08-09T13:08:35.464Z
+published: 2026-08-09T13:08:35.464Z
 tags: "#Book"
 Title: Blue Mars
 Author: Kim Stanley Robinson

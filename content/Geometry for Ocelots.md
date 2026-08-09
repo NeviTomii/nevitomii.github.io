@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-01T17:19:00.145Z
-modified: 2026-08-03T19:47:23.588Z
-published: 2026-08-03T19:47:23.588Z
+modified: 2026-08-09T13:08:06.319Z
+published: 2026-08-09T13:08:06.319Z
 tags: "#Book"
 Title: Geometry for Ocelots
 Author: Exurb1a
