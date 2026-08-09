@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T19:22:48.399Z
-modified: 2026-08-09T16:36:45.671Z
-published: 2026-08-09T16:36:45.671Z
+modified: 2026-08-09T19:30:50.035Z
+published: 2026-08-09T19:30:50.035Z
 up:
   - "[[Index]]"
 ---
@@ -18,6 +18,8 @@ Most important plugins are:
 - **Quartz Syncer** - for separating private and public notes and rendering dataview tables on the website
 
 When using quartz syncer, it is important to create a [sparse checkout](https://git-scm.com/docs/git-sparse-checkout) for editing config files. Otherwise you will run into conflicts between local repo obsidian notes and remote repo site ready markdowns
+
+also make sure to use dataview codeblocks using backticks, otherwise quartz syncer doesn't serialize the queries
 
 ---
 

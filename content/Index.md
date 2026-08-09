@@ -2,8 +2,8 @@
 publish: true
 title: Hi, I'm Tomo
 created: 2026-08-09T09:37:37.140Z
-modified: 2026-08-09T19:21:08.356Z
-published: 2026-08-09T19:21:08.356Z
+modified: 2026-08-09T19:31:12.782Z
+published: 2026-08-09T19:31:12.782Z
 cssclasses:
   - hideReadTime
   - hideDate
@@ -18,21 +18,9 @@ You can reach me on [X](https://x.com/NeviTomii), or by email at tomas.zamouril@
 
 ## Most recent blogposts
 
-```dataviewjs
-const blogposts = dv.pages('[[Blog]]')
-  .where(page => page.up)
-  .sort(page => page.file.ctime, "desc")
-  .array()
-  .slice(0, 3);
-
-dv.table(
-  ["Name", "Created"],
-  blogposts.map(page => [
-    page.file.link,
-    page.file.ctime.toFormat("MMM dd, yyyy")
-  ])
-);
-```
+|Name1|Created|
+|---|---|
+|[[Placeholder blogpost\|Placeholder blogpost]]|Aug 03, 2026|
 
 ### Click [[Blog|Here]] for more
 
