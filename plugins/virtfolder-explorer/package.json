@@ -37,8 +37,7 @@
     "version": "0.1.0",
     "quartzVersion": ">=5.0.0",
     "dependencies": [
-      "@quartz-community/explorer",
-      "virtfolder-content-index"
+      "./plugins/virtfolder-content-index"
     ],
     "defaultOrder": 50,
     "defaultEnabled": true,
