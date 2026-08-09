@@ -233,6 +233,9 @@ plugins:
         strict: true
         reactionsEnabled: true
         inputPosition: bottom
+        themeUrl: https://giscus.app/themes
+        lightTheme: light
+        darkTheme: noborder_dark
         lang: en
     layout:
       position: afterBody
