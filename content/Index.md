@@ -2,8 +2,8 @@
 publish: true
 title: Hi, I'm Tomo
 created: 2026-08-09T09:37:37.140Z
-modified: 2026-08-09T16:25:01.969Z
-published: 2026-08-09T16:25:01.969Z
+modified: 2026-08-09T16:27:01.979Z
+published: 2026-08-09T16:27:01.979Z
 cssclasses:
   - hideReadTime
   - hideDate
@@ -18,7 +18,7 @@ You can reach me on [X](https://x.com/NeviTomii), or by email at tomas.zamouril@
 
 ## Recent posts
 
-These are the 5 latest:
+These are the 3 latest:
 
 ```dataview
 ```
