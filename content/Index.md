@@ -2,8 +2,8 @@
 publish: true
 title: Hi, I'm Tomo
 created: 2026-08-09T09:37:37.140Z
-modified: 2026-08-09T19:02:13.137Z
-published: 2026-08-09T19:02:13.137Z
+modified: 2026-08-09T19:04:57.005Z
+published: 2026-08-09T19:04:57.005Z
 cssclasses:
   - hideReadTime
   - hideDate
@@ -15,6 +15,12 @@ My full name is Tomáš Zamouřil. I work as an accountant and in my free time I
 I am good at forgetting things, so I made this note vault to preserve ideas worth remembering. Those over time develop into [[Zettelkasten|Opinions]], and those with some (huge amounts of) luck later become [[Blog|Blogposts]].
 
 You can reach me on [X](https://x.com/NeviTomii), or by email at tomas.zamouril@gmail.com
+
+| File                                                                                                                                                                                                                                                  | Created                    |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
+| [[udělat zpusob jak filtrovat blogposts podle topicu.md\|udělat zpusob jak filtrovat blogposts podle topicu]]                                                                                                                                         | 8:05 PM - August 09, 2026  |
+| [[je cool že můžu vidělávat x procent nad medianem a díky tomu si dovolit hypoteku a zaplatit nekomu aby mi postavil dum.md\|je cool že můžu vidělávat x procent nad medianem a díky tomu si dovolit hypoteku a zaplatit nekomu aby mi postavil dum]] | 12:37 PM - August 09, 2026 |
+| [[singularity.md\|singularity]]                                                                                                                                                                                                                       | 12:01 PM - August 09, 2026 |
 
 ## Most recent blogposts
 
