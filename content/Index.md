@@ -2,8 +2,8 @@
 publish: true
 title: Hi, I'm Tomo
 created: 2026-08-09T09:37:37.140Z
-modified: 2026-08-09T17:54:48.001Z
-published: 2026-08-09T17:54:48.001Z
+modified: 2026-08-09T18:33:15.856Z
+published: 2026-08-09T18:33:15.856Z
 cssclasses:
   - hideReadTime
   - hideDate
