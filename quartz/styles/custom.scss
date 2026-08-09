@@ -6,3 +6,7 @@ body article a.internal.internal-link {
   padding: 0;
   border-radius: 0;
 }
+
+body[data-slug="index"] .content-meta {
+  display: none;
+}
