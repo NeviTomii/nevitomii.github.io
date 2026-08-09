@@ -13,16 +13,16 @@ body[data-slug="index"] .content-meta {
 }
 
 /* Hide published date */
-.hideDate .content-meta > time {
+body:has(article.hideDate) .content-meta > time {
   display: none;
 }
 
 /* Hide reading time */
-.hideReadTime .content-meta > span {
+body:has(article.hideReadTime) .content-meta > span {
   display: none;
 }
 
-/* Remove the comma left after the date */
-.hideReadTime .content-meta > time::after {
+/* Remove comma after the remaining date */
+body:has(article.hideReadTime) .content-meta > time::after {
   content: none !important;
 }
