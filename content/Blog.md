@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T19:19:03.497Z
-modified: 2026-08-09T19:07:27.862Z
-published: 2026-08-09T19:07:27.862Z
+modified: 2026-08-09T19:19:37.071Z
+published: 2026-08-09T19:19:37.071Z
 cssclasses:
   - hideDate
   - hideReadTime
@@ -10,9 +10,17 @@ cssclasses:
 
 # List of all posts
 
-```dataview
-TABLE dateformat(file.ctime, "MMM dd, yyyy") AS "Created"
-FROM [[Blog]]
-WHERE up
-SORT file.ctime DESC
+```dataviewjs
+const blogposts = dv.pages('[[Blog]]')
+  .where(page => page.up)
+  .sort(page => page.file.ctime, "desc")
+  .array();
+
+dv.table(
+  ["Name", "Created"],
+  blogposts.map(page => [
+    page.file.link,
+    page.file.ctime.toFormat("MMM dd, yyyy")
+  ])
+);
 ```
