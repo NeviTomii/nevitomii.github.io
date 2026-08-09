@@ -65,6 +65,16 @@ export function buildVirtFolderTree(node: FileTrieNode): FileTrieNode {
     byName.set(key, existing && existing !== file ? null : file)
   }
 
+  if (node.data) {
+    const data = node.data as VirtFolderData
+    const slug = normalize(data.slug)
+    const filePath = normalize(data.filePath)
+    const title = normalize(data.title)
+    for (const key of [slug, basename(slug), filePath, basename(filePath), title]) {
+      register(key, node)
+    }
+  }
+
   for (const file of files) {
     const data = file.data as VirtFolderData
     const slug = normalize(data.slug)
@@ -103,6 +113,10 @@ export function buildVirtFolderTree(node: FileTrieNode): FileTrieNode {
       roots.push(file)
       continue
     }
+    if (parent === node) {
+      roots.push(file)
+      continue
+    }
     parent.children.push(file)
     parent.isFolder = true
   }
@@ -121,9 +135,41 @@ export function buildVirtFolderTree(node: FileTrieNode): FileTrieNode {
   return node
 }
 
-export const VirtFolderExplorer = ((options?: VirtFolderExplorerOptions) =>
-  Explorer({
+const revealActiveBranch = `
+(() => {
+  if (window.__virtFolderRevealInstalled) return
+  window.__virtFolderRevealInstalled = true
+
+  const reveal = () => {
+    document.querySelectorAll(".explorer a.active").forEach((active) => {
+      let item = active.closest("li")
+      while (item) {
+        const outer = item.parentElement?.closest(".folder-outer")
+        if (!outer) break
+        outer.classList.add("open")
+        item = outer.closest("li")
+      }
+    })
+  }
+
+  new MutationObserver(reveal).observe(document.documentElement, {
+    childList: true,
+    subtree: true,
+  })
+  document.addEventListener("nav", reveal)
+  document.addEventListener("render", reveal)
+  reveal()
+})()
+`
+
+export const VirtFolderExplorer = ((options?: VirtFolderExplorerOptions) => {
+  const component = Explorer({
     ...options,
     folderClickBehavior: options?.folderClickBehavior ?? "link",
     mapFn: buildVirtFolderTree,
-  })) satisfies QuartzComponentConstructor
+  })
+  component.afterDOMLoaded = [component.afterDOMLoaded, revealActiveBranch]
+    .filter(Boolean)
+    .join("\n")
+  return component
+}) satisfies QuartzComponentConstructor

@@ -53,6 +53,20 @@ test("keeps the real URL when a note becomes a virtual folder", () => {
   assert.equal(child.data.slug, "elsewhere/child")
 })
 
+test("treats Index as the virtual root parent", () => {
+  const blogStructure = file("Blog structure", "blog-structure", "[[Index]]")
+  const treeRoot = root(blogStructure)
+  treeRoot.data = {
+    title: "Index",
+    slug: "index",
+    filePath: "Index.md",
+  }
+
+  const tree = buildVirtFolderTree(treeRoot)
+
+  assert.deepEqual(tree.children.map((node) => node.data.title), ["Blog structure"])
+})
+
 test("leaves cyclic and missing parent relationships at the root", () => {
   const a = file("A", "a", "[[B]]")
   const b = file("B", "b", "[[A]]")
