@@ -65,16 +65,6 @@ export function buildVirtFolderTree(node: FileTrieNode): FileTrieNode {
     byName.set(key, existing && existing !== file ? null : file)
   }
 
-  if (node.data) {
-    const data = node.data as VirtFolderData
-    const slug = normalize(data.slug)
-    const filePath = normalize(data.filePath)
-    const title = normalize(data.title)
-    for (const key of [slug, basename(slug), filePath, basename(filePath), title]) {
-      register(key, node)
-    }
-  }
-
   for (const file of files) {
     const data = file.data as VirtFolderData
     const slug = normalize(data.slug)
@@ -87,12 +77,19 @@ export function buildVirtFolderTree(node: FileTrieNode): FileTrieNode {
     file.isFolder = false
   }
 
+  const blogStructure = files.find((file) => {
+    const data = file.data as VirtFolderData
+    return normalize(data.title) === "blog structure"
+  })
+
   const requestedParent = new Map<FileTrieNode, FileTrieNode>()
   for (const file of files) {
     const data = file.data as VirtFolderData
     const target = firstParent(data.up)
     const parent = byName.get(target) ?? byName.get(basename(target))
-    if (parent && parent !== file) requestedParent.set(file, parent)
+    if (parent && parent !== file && parent !== blogStructure && file !== blogStructure) {
+      requestedParent.set(file, parent)
+    }
   }
 
   const createsCycle = (file: FileTrieNode): boolean => {
@@ -113,12 +110,26 @@ export function buildVirtFolderTree(node: FileTrieNode): FileTrieNode {
       roots.push(file)
       continue
     }
-    if (parent === node) {
-      roots.push(file)
-      continue
-    }
     parent.children.push(file)
     parent.isFolder = true
+  }
+
+  if (blogStructure) {
+    const rootIndex = roots.indexOf(blogStructure)
+    if (rootIndex !== -1) roots.splice(rootIndex, 1)
+
+    const homepage = Object.create(Object.getPrototypeOf(blogStructure)) as FileTrieNode
+    homepage.children = [blogStructure]
+    homepage.data = null
+    homepage.isFolder = true
+    homepage.slugSegments = ["homepage"]
+    homepage.displayName = "Homepage"
+    Object.defineProperty(homepage, "slug", {
+      configurable: true,
+      enumerable: true,
+      value: "/",
+    })
+    roots.push(homepage)
   }
 
   for (const file of files) {

@@ -32,13 +32,6 @@ function buildVirtFolderTree(node) {
     const existing = byName.get(key);
     byName.set(key, existing && existing !== file ? null : file);
   };
-  if (node.data) {
-    const data = node.data;
-    const slug = normalize(data.slug);
-    const filePath = normalize(data.filePath);
-    const title = normalize(data.title);
-    for (const key of [slug, basename(slug), filePath, basename(filePath), title]) register(key, node);
-  }
   for (const file of files) {
     const data = file.data;
     const slug = normalize(data.slug);
@@ -48,12 +41,16 @@ function buildVirtFolderTree(node) {
     file.children = [];
     file.isFolder = false;
   }
+  const blogStructure = files.find((file) => {
+    const data = file.data;
+    return normalize(data.title) === "blog structure";
+  });
   const requestedParent = /* @__PURE__ */ new Map();
   for (const file of files) {
     const data = file.data;
     const target = firstParent(data.up);
     const parent = byName.get(target) ?? byName.get(basename(target));
-    if (parent && parent !== file) requestedParent.set(file, parent);
+    if (parent && parent !== file && parent !== blogStructure && file !== blogStructure) requestedParent.set(file, parent);
   }
   const createsCycle = (file) => {
     const seen = /* @__PURE__ */ new Set([file]);
@@ -72,12 +69,20 @@ function buildVirtFolderTree(node) {
       roots.push(file);
       continue;
     }
-    if (parent === node) {
-      roots.push(file);
-      continue;
-    }
     parent.children.push(file);
     parent.isFolder = true;
+  }
+  if (blogStructure) {
+    const rootIndex = roots.indexOf(blogStructure);
+    if (rootIndex !== -1) roots.splice(rootIndex, 1);
+    const homepage = Object.create(Object.getPrototypeOf(blogStructure));
+    homepage.children = [blogStructure];
+    homepage.data = null;
+    homepage.isFolder = true;
+    homepage.slugSegments = ["homepage"];
+    homepage.displayName = "Homepage";
+    Object.defineProperty(homepage, "slug", { configurable: true, enumerable: true, value: "/" });
+    roots.push(homepage);
   }
   for (const file of files) {
     if (!file.isFolder) continue;

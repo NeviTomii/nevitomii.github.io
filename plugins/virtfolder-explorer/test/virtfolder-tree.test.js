@@ -27,19 +27,15 @@ function root(...children) {
   }
 }
 
-test("builds recursive hierarchy from wikilink up properties", () => {
+test("places Aurora under Hobbies then Reading", () => {
   const hobbies = file("Hobbies", "notes/hobbies")
-  const boardGames = file("Board games", "board-games", ["[[Hobbies]]"])
-  const twilightImperium = file(
-    "Twilight Imperium",
-    "games/twilight-imperium",
-    "[[Board games|Games]]",
-  )
-  const tree = buildVirtFolderTree(root(boardGames, hobbies, twilightImperium))
+  const reading = file("Reading", "reading", ["[[Hobbies]]"])
+  const aurora = file("Aurora", "aurora", "[[Reading]]")
+  const tree = buildVirtFolderTree(root(reading, hobbies, aurora))
 
   assert.deepEqual(tree.children.map((node) => node.data.title), ["Hobbies"])
-  assert.deepEqual(hobbies.children.map((node) => node.data.title), ["Board games"])
-  assert.deepEqual(boardGames.children.map((node) => node.data.title), ["Twilight Imperium"])
+  assert.deepEqual(hobbies.children.map((node) => node.data.title), ["Reading"])
+  assert.deepEqual(reading.children.map((node) => node.data.title), ["Aurora"])
 })
 
 test("keeps the real URL when a note becomes a virtual folder", () => {
@@ -53,18 +49,17 @@ test("keeps the real URL when a note becomes a virtual folder", () => {
   assert.equal(child.data.slug, "elsewhere/child")
 })
 
-test("treats Index as the virtual root parent", () => {
+test("places Blog structure alone in a synthetic Homepage folder", () => {
   const blogStructure = file("Blog structure", "blog-structure", "[[Index]]")
-  const treeRoot = root(blogStructure)
-  treeRoot.data = {
-    title: "Index",
-    slug: "index",
-    filePath: "Index.md",
-  }
+  const otherRootFile = file("Other", "other", "[[Index]]")
 
-  const tree = buildVirtFolderTree(treeRoot)
+  const tree = buildVirtFolderTree(root(blogStructure, otherRootFile))
+  const homepage = tree.children.find((node) => node.displayName === "Homepage")
 
-  assert.deepEqual(tree.children.map((node) => node.data.title), ["Blog structure"])
+  assert.ok(homepage)
+  assert.equal(homepage.slug, "/")
+  assert.deepEqual(homepage.children.map((node) => node.data.title), ["Blog structure"])
+  assert.ok(tree.children.includes(otherRootFile))
 })
 
 test("leaves cyclic and missing parent relationships at the root", () => {
