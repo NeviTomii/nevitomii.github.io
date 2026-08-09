@@ -220,11 +220,20 @@ plugins:
       position: beforeBody
       priority: 5
       condition: not-index
-  - source: "@quartz-community/comments"
-    enabled: false
+  - source: ./plugins/blog-comments
+    enabled: true
     options:
       provider: giscus
-      options: {}
+      options:
+        repo: NeviTomii/nevitomii.github.io
+        repoId: R_kgDOTqQonw
+        category: Announcements
+        categoryId: DIC_kwDOTqQon84DDBIA
+        mapping: pathname
+        strict: true
+        reactionsEnabled: true
+        inputPosition: bottom
+        lang: en
     layout:
       position: afterBody
       priority: 10
