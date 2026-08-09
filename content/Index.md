@@ -2,8 +2,8 @@
 publish: true
 title: Hi, I'm Tomo
 created: 2026-08-09T09:37:37.140Z
-modified: 2026-08-09T18:49:31.950Z
-published: 2026-08-09T18:49:31.950Z
+modified: 2026-08-09T19:02:13.137Z
+published: 2026-08-09T19:02:13.137Z
 cssclasses:
   - hideReadTime
   - hideDate
@@ -22,7 +22,8 @@ You can reach me on [X](https://x.com/NeviTomii), or by email at tomas.zamouril@
 TABLE WITHOUT ID
   file.link AS "Name",
   dateformat(file.ctime, "MMM dd, yyyy") AS "Created"
-WHERE up = [[Blog]] OR contains(up, [[Blog]])
+FROM [[Blog]]
+WHERE contains(up, [[Blog]])
 SORT file.ctime DESC
 LIMIT 3
 ```
