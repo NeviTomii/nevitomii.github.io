@@ -2,8 +2,8 @@
 publish: true
 title: Hi, I'm Tomo
 created: 2026-08-09T09:37:37.140Z
-modified: 2026-08-09T19:06:48.398Z
-published: 2026-08-09T19:06:48.398Z
+modified: 2026-08-09T19:15:11.940Z
+published: 2026-08-09T19:15:11.940Z
 cssclasses:
   - hideReadTime
   - hideDate
@@ -19,8 +19,7 @@ You can reach me on [X](https://x.com/NeviTomii), or by email at tomas.zamouril@
 ## Most recent blogposts
 
 ```dataview
-TABLE dateformat(file.ctime, "MMM dd, yyyy") AS "Created"
-FROM [[Blog]]
+TABLE file.ctime AS "Created"
 WHERE up
 SORT file.ctime DESC
 LIMIT 3
