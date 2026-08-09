@@ -140,7 +140,7 @@ plugins:
       display: all
   - source: "@quartz-community/alias-redirects"
     enabled: true
-  - source: "@quartz-community/content-index"
+  - source: ./plugins/virtfolder-content-index
     enabled: true
     options:
       enableSiteMap: true
@@ -159,7 +159,7 @@ plugins:
     enabled: true
   - source: "@quartz-community/tag-page"
     enabled: true
-  - source: "@quartz-community/explorer"
+  - source: ./plugins/virtfolder-explorer
     enabled: true
     layout:
       position: left
