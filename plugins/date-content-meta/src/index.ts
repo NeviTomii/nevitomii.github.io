@@ -17,13 +17,26 @@ type DateValues = {
 }
 
 type FrontmatterValues = {
-  tags?: string[]
+  up?: unknown
 }
 
 const asDate = (value: Date | string | undefined): Date | undefined => {
   if (!value) return undefined
   const date = value instanceof Date ? value : new Date(value)
   return Number.isNaN(date.getTime()) ? undefined : date
+}
+
+const pointsToBlog = (value: unknown): boolean => {
+  const values = Array.isArray(value) ? value : [value]
+  return values.some((candidate) => {
+    if (typeof candidate !== "string") return false
+    let parent = candidate.trim()
+    if (parent.startsWith("[[") && parent.endsWith("]]")) {
+      parent = parent.slice(2, -2)
+    }
+    parent = parent.split("|")[0].split("#")[0].trim()
+    return parent.toLocaleLowerCase() === "blog"
+  })
 }
 
 export const DateContentMeta = ((opts?: Partial<DateContentMetaOptions>) => {
@@ -61,9 +74,7 @@ export const DateContentMeta = ((opts?: Partial<DateContentMetaOptions>) => {
       : [rendered.props.children]
     const children: ComponentChildren[] = [h("span", null, dateText)]
     const frontmatter = props.fileData.frontmatter as FrontmatterValues | undefined
-    const isBlogpost = frontmatter?.tags?.some(
-      (tag) => tag.replace(/^#/, "").toLocaleLowerCase() === "blogpost",
-    )
+    const isBlogpost = pointsToBlog(frontmatter?.up)
     if (options.showReadingTime && isBlogpost) {
       const readingTime = originalChildren.at(-1)
       if (readingTime != null) children.push(readingTime)

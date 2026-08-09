@@ -7,6 +7,17 @@ const asDate = (value) => {
   return Number.isNaN(date.getTime()) ? void 0 : date;
 };
 
+const pointsToBlog = (value) => {
+  const values = Array.isArray(value) ? value : [value];
+  return values.some((candidate) => {
+    if (typeof candidate !== "string") return false;
+    let parent = candidate.trim();
+    if (parent.startsWith("[[") && parent.endsWith("]]")) parent = parent.slice(2, -2);
+    parent = parent.split("|")[0].split("#")[0].trim();
+    return parent.toLocaleLowerCase() === "blog";
+  });
+};
+
 const DateContentMeta = (opts) => {
   const options = {
     showReadingTime: true,
@@ -33,7 +44,7 @@ const DateContentMeta = (opts) => {
     const originalChildren = Array.isArray(rendered.props.children) ? rendered.props.children : [rendered.props.children];
     const children = [h("span", null, dateText)];
     const frontmatter = props.fileData.frontmatter;
-    const isBlogpost = frontmatter?.tags?.some((tag) => tag.replace(/^#/, "").toLocaleLowerCase() === "blogpost");
+    const isBlogpost = pointsToBlog(frontmatter?.up);
     if (options.showReadingTime && isBlogpost) {
       const readingTime = originalChildren.at(-1);
       if (readingTime != null) children.push(readingTime);

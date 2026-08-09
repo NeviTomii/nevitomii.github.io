@@ -7,6 +7,10 @@
     ".": {
       "types": "./dist/index.d.ts",
       "import": "./dist/index.js"
+    },
+    "./components": {
+      "types": "./dist/components/index.d.ts",
+      "import": "./dist/components/index.js"
     }
   },
   "main": "./dist/index.js",
@@ -42,7 +46,7 @@
     "components": {
       "DateContentMeta": {
         "displayName": "Date Content Meta",
-        "description": "Displays created and modified dates alongside reading time.",
+        "description": "Displays created and modified dates, with reading time for Blog notes.",
         "version": "0.1.0",
         "defaultPosition": "beforeBody",
         "defaultPriority": 20
