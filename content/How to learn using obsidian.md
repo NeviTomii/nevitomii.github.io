@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-01T17:19:08.535Z
-modified: 2026-08-10T10:27:14.170Z
-published: 2026-08-10T10:27:14.170Z
+modified: 2026-08-10T12:35:56.125Z
+published: 2026-08-10T12:35:56.125Z
 tags:
   - topic/learning
 up:
@@ -10,12 +10,12 @@ up:
 ---
 
 1. We should learn as much as we can about the world
-2. [[We learn by remembering]]
+2. We retain what we know by remembering
 3. To remember, information has to be written down
 
 There are so many daily thoughts and insights that are immediately forgotten. We should all be writing these down, but spending precious time of our life being library keepers of our brains isn't fun.
 
-From what I've seen in [No Boilerplate's youtube videos](https://www.youtube.com/playlist?list=PLZaoyhMXgBzp9blLuIrwr5eRgBdnPy3BM), and from what I've read in [[A System for Writing - A Zettelkasten Primer]] by Bob Doto, [[Zettelkasten]] seems to be the most efficient way and pain free way to capture, store and retrieve my thoughts.
+From what I've seen in [No Boilerplate's youtube videos](https://www.youtube.com/playlist?list=PLZaoyhMXgBzp9blLuIrwr5eRgBdnPy3BM), and from what I've read in [[A System for Writing - A Zettelkasten Primer]] by Bob Doto, [[Zettelkasten]] seems to be the most efficient and pain free way to capture, store and retrieve my thoughts.
 
 The workflow:
 
@@ -42,7 +42,7 @@ When an idea pops into my head, I don't want to drop everything for 5 minutes ju
 - you don't need to understand an ideas relevance to your thinking to cite it in a reference note [[A System for Writing - A Zettelkasten Primer|(p46)]]
 
 knowledge gathering != understanding
-it is not enough to capture fleeting thoughts, we need to process them
+fleeting notes need to be processed to keep them concise and relevant
 
 ---
 
