@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-08-01T17:19:00.186Z
-modified: 2026-08-09T13:07:39.128Z
+created: 2026-08-01T17:19:08.012Z
+modified: 2026-08-09T13:07:39.127Z
 published: 2016/02/09
 tags: "#Book"
 Title: Morning Star

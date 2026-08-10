@@ -1,8 +1,10 @@
 ---
 publish: true
-created: 2026-08-03T19:19:38.954Z
-modified: 2026-08-09T19:50:53.968Z
-published: 2026-08-09T19:50:53.968Z
+created: 2026-08-03T19:19:39.981Z
+modified: 2026-08-10T09:24:05.563Z
+published: 2026-08-10T09:24:05.563Z
+tags:
+  - Blog
 up:
   - "[[Blog]]"
 blogCover: "[[Placeholder blogpost.png]]"

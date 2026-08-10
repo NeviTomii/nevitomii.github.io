@@ -1,12 +1,12 @@
 ---
 publish: true
-created: 2026-08-04T07:15:17.581Z
-modified: 2026-08-09T20:22:06.653Z
-published: 2026-08-09T20:22:06.653Z
+created: 2026-08-04T06:01:18.580Z
+modified: 2026-08-10T10:25:17.127Z
+published: 2026-08-10T10:25:17.127Z
 tags:
   - atomic
 up:
-  - "[[We learn by remembering]]"
+  - "[[there is a school test, and then real life test]]"
 sr-due: 2026-10-05
 sr-interval: 57
 sr-ease: 272

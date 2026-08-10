@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-01T17:19:00.189Z
-modified: 2026-08-03T19:43:01.406Z
-published: 2026-08-03T19:43:01.406Z
+created: 2026-08-01T17:19:09.358Z
+modified: 2026-08-10T09:16:05.479Z
+published: 2026-08-10T09:16:05.479Z
 tags:
   - topic/cooking
 up:
@@ -20,7 +20,7 @@ up:
 | [[rýže]]          | příloha            | rýžovar       | lehké     |
 | [[pizza šnek]]    | hlavní jídlo/snack | friťák/trouba | lehké     |
 | [[losos]]         | hlavní jídlo       | friťák        | lehké     |
-|                   |                    |               |           |
+| [[Tofu tortilla]]          | hlavní jídlo       | friťák        | lehké     |
 
 # List of recipes to try:
 

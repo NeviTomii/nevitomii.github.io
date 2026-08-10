@@ -1,7 +1,7 @@
 ---
 publish: true
 title: Hi, I'm Tomo
-created: 2026-08-09T09:37:37.140Z
+created: 2026-08-01T17:19:09.147Z
 modified: 2026-08-09T20:27:08.901Z
 published: 2026-08-09T20:27:08.901Z
 cssclasses:

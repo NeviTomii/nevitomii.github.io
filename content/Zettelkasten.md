@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-01T17:19:36.713Z
-modified: 2026-08-09T20:03:30.487Z
-published: 2026-08-09T20:03:30.487Z
+created: 2026-08-01T17:19:08.558Z
+modified: 2026-08-09T20:03:30.486Z
+published: 2026-08-09T20:03:30.486Z
 ---
 
 [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) is a note management system emphasizing links instead of folders. It is a scalable tool for learning, remembering and writing
