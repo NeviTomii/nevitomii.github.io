@@ -7,6 +7,36 @@ body article a.internal.internal-link {
   border-radius: 0;
 }
 
+/* Keep long-form reading content narrow while preserving room for sidebars. */
+@media (min-width: 801px) {
+  .page[data-frame="default"] > #quartz-body > .center {
+    width: 100%;
+    min-width: 0;
+    max-width: 700px;
+    justify-self: center;
+  }
+}
+
+/* Long-form article typography. */
+.center > article {
+  font-size: 18.5px;
+  line-height: 1.7;
+}
+
+.center > article :is(p, li) {
+  line-height: 1.7;
+}
+
+.center > article p {
+  margin-top: 1.2em;
+  margin-bottom: 1.2em;
+}
+
+/* Blog descriptions are rendered as subtitles, so suppress the properties panel. */
+.page-header:has(.blog-post-meta) .note-properties {
+  display: none;
+}
+
 /* Hide published date */
 body:has(article.hideDate) .content-meta > time {
   display: none;

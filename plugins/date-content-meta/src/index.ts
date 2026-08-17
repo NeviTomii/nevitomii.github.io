@@ -4,7 +4,7 @@ import type {
   QuartzComponentConstructor,
   QuartzComponentProps,
 } from "@quartz-community/types"
-import { h, type ComponentChildren, type VNode } from "preact"
+import { Fragment, h, type ComponentChildren, type VNode } from "preact"
 
 export interface DateContentMetaOptions {
   showReadingTime: boolean
@@ -18,6 +18,8 @@ type DateValues = {
 
 type FrontmatterValues = {
   up?: unknown
+  description?: unknown
+  Description?: unknown
 }
 
 const asDate = (value: Date | string | undefined): Date | undefined => {
@@ -48,12 +50,31 @@ export const DateContentMeta = ((opts?: Partial<DateContentMetaOptions>) => {
   const base = ContentMeta(options)
 
   const component = ((props: QuartzComponentProps) => {
-    const rendered = base(props) as VNode<{ children?: ComponentChildren }> | null
-    if (!rendered) return null
+    const rendered = base(props) as VNode<{
+      children?: ComponentChildren
+      class?: string
+    }> | null
+    const frontmatter = props.fileData.frontmatter as FrontmatterValues | undefined
+    const isBlogpost = pointsToBlog(frontmatter?.up)
+    const rawDescription = frontmatter?.description ?? frontmatter?.Description
+    const description = typeof rawDescription === "string" ? rawDescription.trim() : ""
+    const subtitle =
+      isBlogpost && description ? h("p", { class: "article-subtitle" }, description) : null
+
+    if (!rendered) return subtitle
+    const metadataProps = isBlogpost
+      ? {
+          ...rendered.props,
+          class: [rendered.props.class, "blog-post-meta"].filter(Boolean).join(" "),
+        }
+      : rendered.props
 
     const dates = props.fileData.dates as DateValues | undefined
     const created = asDate(dates?.created)
-    if (!created) return rendered
+    if (!created) {
+      const metadata = h("p", metadataProps, rendered.props.children)
+      return subtitle ? h(Fragment, null, subtitle, metadata) : metadata
+    }
 
     const locale = props.cfg.locale ?? "en-US"
     const formatter = new Intl.DateTimeFormat(locale, {
@@ -73,16 +94,22 @@ export const DateContentMeta = ((opts?: Partial<DateContentMetaOptions>) => {
       ? rendered.props.children
       : [rendered.props.children]
     const children: ComponentChildren[] = [h("span", null, dateText)]
-    const frontmatter = props.fileData.frontmatter as FrontmatterValues | undefined
-    const isBlogpost = pointsToBlog(frontmatter?.up)
     if (options.showReadingTime && isBlogpost) {
       const readingTime = originalChildren.at(-1)
       if (readingTime != null) children.push(readingTime)
     }
 
-    return h("p", rendered.props, children)
+    const metadata = h("p", metadataProps, children)
+    return subtitle ? h(Fragment, null, subtitle, metadata) : metadata
   }) as QuartzComponent
 
-  component.css = base.css
+  component.css = `${base.css ?? ""}
+.article-subtitle {
+  margin: 0.55rem 0 0.8rem;
+  color: var(--gray);
+  font-size: 1.15rem;
+  line-height: 1.5;
+  font-weight: 400;
+}`
   return component
 }) satisfies QuartzComponentConstructor<DateContentMetaOptions>
