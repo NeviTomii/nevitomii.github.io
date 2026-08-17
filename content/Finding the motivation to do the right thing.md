@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-12T19:04:10.427Z
-modified: 2026-08-17T08:55:47.786Z
-published: 2026-08-17T08:55:47.786Z
+modified: 2026-08-17T09:05:24.740Z
+published: 2026-08-17T09:05:24.740Z
 tags:
   - Blog
   - topic/learning
@@ -11,6 +11,7 @@ sr-interval: 5
 sr-ease: 230
 up:
   - "[[Blog]]"
+Description: Motivation is a scarce resource. What is the best way to spend it?
 ---
 
 I grew up with a general high school education, in a sort of "master of none and a jack of no trades" way. To contribute meaningfully to any particular area of progress, I would need either specialized education or enough personal interest to teach myself.
@@ -48,3 +49,5 @@ In this way, we have reasoned our way into knowing what the good thing to do is.
 This is the part I struggle with immensely, so my advice may not be universally applicable. What has worked for me is setting aside a reasonably small amount of time each day — enough to make visible progress, but not so much that the effort becomes exhausting and I start feeling that I am wasting my limited free time on something that isn't going anywhere.
 
 By spending just 30 minutes every day taking care of this note vault and blog, I slowly but surely add value to it while still leaving myself enough time to rest after work. Hopefully, after doing this for long enough, managing my notes will become almost automatic. From there, I can gradually increase the amount of effort spent on harder things — projects where interest and principle tell me my time is actually worth spending.
+
+![[blog.png|553]]
