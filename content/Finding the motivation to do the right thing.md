@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-12T19:04:10.427Z
-modified: 2026-08-17T09:05:24.740Z
-published: 2026-08-17T09:05:24.740Z
+modified: 2026-08-17T09:19:46.595Z
+published: 2026-08-17T09:19:46.595Z
 tags:
   - Blog
   - topic/learning
@@ -11,7 +11,8 @@ sr-interval: 5
 sr-ease: 230
 up:
   - "[[Blog]]"
-Description: Motivation is a scarce resource. What is the best way to spend it?
+blogDescription: Motivation is a scarce resource. What is the best way to spend it?
+blogCover: "[[blog.png]]"
 ---
 
 I grew up with a general high school education, in a sort of "master of none and a jack of no trades" way. To contribute meaningfully to any particular area of progress, I would need either specialized education or enough personal interest to teach myself.
