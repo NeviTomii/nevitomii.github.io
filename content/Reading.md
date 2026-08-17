@@ -41,12 +41,12 @@ for more inspiration on what to read next visit [casey Handmer's blog](https://c
 |[[Rule of Two\|Rule of Two]]|Drew Karpyshyn|318|9|1|
 |[[Morning Star\|Morning Star]]|Pierce Brown|524|9|1|
 |[[Logic Beach Part I\|Logic Beach Part I]]|Exurb1a|203|9|2|
-|[[Golden Son\|Golden Son]]|Pierce Brown|466|9|1|
 |[[Geometry for Ocelots\|Geometry for Ocelots]]|Exurb1a|325|9|2|
+|[[Golden Son\|Golden Son]]|Pierce Brown|466|9|1|
 |[[Dynasty of Evil\|Dynasty of Evil]]|Drew Karpyshyn|296|9|1|
 |[[Darth Plagueis\|Darth Plagueis]]|James Luceno|379|9|1|
-|[[There Is No Antimemetics Division\|There Is No Antimemetics Division]]|qntm|220|8|1|
 |[[Tiamat's Wrath \(Expanse 8\|Tiamat's Wrath (Expanse 8)]])|James S.A. Corey|534|8|1|
+|[[There Is No Antimemetics Division\|There Is No Antimemetics Division]]|qntm|220|8|1|
 |[[Red Mars\|Red Mars]]|Kim Stanley Robinson|572|8|1|
 |[[Ra\|Ra]]|qntm|543|8|1|
 |[[Persepolis Rising \(Expanse 7\|Persepolis Rising (Expanse 7)]])|James S.A. Corey|608|8|1|

@@ -1,14 +1,13 @@
 ---
 publish: true
 created: 2026-08-01T17:19:00.254Z
-modified: 2026-08-17T07:58:25.662Z
-published: 2026-08-17T07:58:25.662Z
+modified: 2026-08-17T10:14:26.455Z
+published: 2026-08-17T10:14:26.455Z
 tags:
   - atomic
 sr-due: 2026-10-20
 sr-interval: 64
 sr-ease: 290
-Title: Wealth inequality is going down?
 up:
   - "[[I can afford a house on my junior accountant income]]"
 ---

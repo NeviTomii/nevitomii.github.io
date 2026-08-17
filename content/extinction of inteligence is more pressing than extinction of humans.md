@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-08-12T19:04:12.169Z
-modified: 2026-08-12T06:54:00.506Z
-published: 2026-08-12T06:54:00.506Z
+modified: 2026-08-17T10:01:34.489Z
+published: 2026-08-17T10:01:34.489Z
 tags:
   - topic/worldOpinions
   - atomic
-sr-due: 2026-08-20
-sr-interval: 8
-sr-ease: 250
+sr-due: 2026-09-14
+sr-interval: 28
+sr-ease: 270
 up:
   - "[[Atomic]]"
 ---
