@@ -1,16 +1,16 @@
 ---
 publish: true
-created: 2026-08-01T17:19:08.603Z
-modified: 2026-08-10T09:47:55.634Z
-published: 2026-08-10T09:47:55.634Z
+created: 2026-08-12T19:04:10.172Z
+modified: 2026-08-12T07:18:29.720Z
+published: 2026-08-12T07:18:29.720Z
 tags:
   - atomic
   - topic/learning
 up:
   - "[[Atomic]]"
-sr-due: 2026-08-11
-sr-interval: 18
-sr-ease: 290
+sr-due: 2026-10-28
+sr-interval: 77
+sr-ease: 310
 ---
 
 the real test exams if you're informed engaged and productive citizen of the world.

@@ -1,14 +1,13 @@
 ---
 publish: true
-created: 2026-08-01T17:19:08.687Z
-modified: 2026-08-09T18:24:26.266Z
-published: 2026-08-09T18:24:26.266Z
+created: 2026-08-13T10:53:45.555Z
+modified: 2026-08-13T06:15:34.134Z
+published: 2026-08-13T06:15:34.134Z
 up:
   - "[[My recipes]]"
 ---
 
-možná to nezkaramelizovalo protože byl moc velkej hrnec
-zkusit ještě jednou s mín cukrem a dělat dýl, pokud nevyjde můžu místo pink lady zkusit granny smith jablka, můžu změnit teplotu v troubě a můžu listové těsto na chvíli odendat
+můžu místo pink lady zkusit granny smith jablka,  můžu listové těsto na chvíli odendat
 
 | ingredience                     | Množství |
 | ------------------------------- | -------- |
@@ -26,8 +25,8 @@ zkusit ještě jednou s mín cukrem a dělat dýl, pokud nevyjde můžu místo p
 - JABLKA NECHÁM PŘES NOC VYSCHNOUT
 - předehřeju troubu na 160stupňů foukací mod
 - strany hrnce do trouby potřu máslem
-- na dno hrnce vyskládám 100g másla
-- na dno hrnce vysypu 100g cukr krupice
+- na dno hrnce vyskládám 100g másla, 100g cukr krupice
+- dám na sporák medium heat dokud nezačne bublat, nemíchat, počkat než nabere zlatou barvu
 - vyskládám jablka na stojato podel hrnce, tak aby byly namačkaný na sebe
 - z listového těsta udělám kruh který je o 5 cm větší než hrnec
 - listové těsto dám navrch jablek, umačkám aby přilehlo k rohům, zbytek převalím na sebe aby se nelepilo na stěnu

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-01T17:19:07.907Z
-modified: 2026-08-10T10:21:25.158Z
-published: 2026-08-10T10:21:25.158Z
+created: 2026-08-10T17:47:23.849Z
+modified: 2026-08-17T06:48:34.654Z
+published: 2026-08-17T06:48:34.654Z
 tags:
   - "#Book"
   - reference
@@ -45,6 +45,9 @@ p69 -
 - read the subtext.
 - stretch their relevancy
 - flip them over and turn them inside out.
+
+p117
+"social mediation is a more appropriate term than social media"
 
 instead of capturing ideas while reading, capture the sections that provoke ideas
 

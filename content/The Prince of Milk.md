@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-01T17:19:07.675Z
-modified: 2026-08-03T19:49:33.326Z
-published: 2026-08-03T19:49:33.326Z
+created: 2026-08-01T17:19:00.233Z
+modified: 2026-08-03T19:49:33.327Z
+published: 2026-08-03T19:49:33.327Z
 tags: "#Book"
 Title: The Prince of Milk
 Author: Exurb1a

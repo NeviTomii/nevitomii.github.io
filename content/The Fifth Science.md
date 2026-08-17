@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-01T17:19:09.307Z
-modified: 2026-08-03T19:49:24.458Z
-published: 2026-08-03T19:49:24.458Z
+created: 2026-08-01T17:19:00.231Z
+modified: 2026-08-03T19:49:24.459Z
+published: 2026-08-03T19:49:24.459Z
 tags: "#Book"
 Title: The Fifth Science
 Author: Exurb1a

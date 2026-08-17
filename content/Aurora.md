@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-01T17:19:08.571Z
-modified: 2026-08-09T13:08:46.217Z
-published: 2026-08-09T13:08:46.217Z
+created: 2026-08-01T17:19:00.115Z
+modified: 2026-08-09T13:08:46.218Z
+published: 2026-08-09T13:08:46.218Z
 tags: "#Book"
 Title: Aurora
 Author: Kim Stanley Robinson

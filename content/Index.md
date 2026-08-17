@@ -1,9 +1,9 @@
 ---
 publish: true
 title: Hi, I'm Tomo
-created: 2026-08-01T17:19:09.147Z
-modified: 2026-08-09T20:27:08.901Z
-published: 2026-08-09T20:27:08.901Z
+created: 2026-08-09T09:37:37.140Z
+modified: 2026-08-17T07:22:37.010Z
+published: 2026-08-17T07:22:37.010Z
 cssclasses:
   - hideReadTime
   - hideDate
@@ -15,15 +15,17 @@ My full name is Tomáš Zamouřil. I’m 22 years old. I work as an accountant a
 
 I am good at forgetting things, so I made this note vault to preserve ideas worth remembering. Those over time develop into [[Zettelkasten|Opinions]], and those with some (huge amounts of) luck later become [[Blog|Blogposts]].
 
+Writing has never come naturally to me, and doing it in my second language certainly doesn’t help. There’s also a very real chance that I’m wrong about some of the things I believe, so feel free to correct me :)
+
 You can reach me on [X](https://x.com/NeviTomii), or by email at tomas.zamouril@gmail.com
 
 ---
 
 ## Most recent blogposts
 
-| Cover                                                   | Title                                             | Created        | Description               |
-| ------------------------------------------------------- | ------------------------------------------------- | -------------- | ------------------------- |
-| ![[Placeholder blogpost.png\|Placeholder blogpost.png]] | [[Placeholder blogpost.md\|Placeholder blogpost]] | August 3, 2026 | ahoj tohle je description |
+| Cover                                                   | Title                                             | Created         | Description               |
+| ------------------------------------------------------- | ------------------------------------------------- | --------------- | ------------------------- |
+| ![[Placeholder blogpost.png\|Placeholder blogpost.png]] | [[Placeholder blogpost.md\|Placeholder blogpost]] | August 10, 2026 | ahoj tohle je description |
 
 ### Click [[Blog|Here]] for more
 

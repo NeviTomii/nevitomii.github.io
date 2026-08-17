@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-01T17:19:08.807Z
-modified: 2026-08-09T13:07:36.225Z
-published: 2026-08-09T13:07:36.225Z
+created: 2026-08-01T17:19:00.199Z
+modified: 2026-08-17T06:39:44.783Z
+published: 2026-08-17T06:39:44.783Z
 tags: "#Book"
 Title: Poems for the Lost Because I'm Lost Too
 Author: Exurb1a
@@ -22,3 +22,6 @@ years-read: ""
 rating: ""
 want-to-buy: false
 ---
+
+p14
+[[stress is conflict with reality]]
