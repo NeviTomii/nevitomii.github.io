@@ -18,6 +18,7 @@ type DateValues = {
 
 type FrontmatterValues = {
   up?: unknown
+  blogDescription?: unknown
   description?: unknown
   Description?: unknown
 }
@@ -56,7 +57,8 @@ export const DateContentMeta = ((opts?: Partial<DateContentMetaOptions>) => {
     }> | null
     const frontmatter = props.fileData.frontmatter as FrontmatterValues | undefined
     const isBlogpost = pointsToBlog(frontmatter?.up)
-    const rawDescription = frontmatter?.description ?? frontmatter?.Description
+    const rawDescription =
+      frontmatter?.blogDescription ?? frontmatter?.description ?? frontmatter?.Description
     const description = typeof rawDescription === "string" ? rawDescription.trim() : ""
     const subtitle =
       isBlogpost && description ? h("p", { class: "article-subtitle" }, description) : null

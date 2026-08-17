@@ -29,7 +29,7 @@ const DateContentMeta = (opts) => {
     const rendered = base(props);
     const frontmatter = props.fileData.frontmatter;
     const isBlogpost = pointsToBlog(frontmatter?.up);
-    const rawDescription = frontmatter?.description ?? frontmatter?.Description;
+    const rawDescription = frontmatter?.blogDescription ?? frontmatter?.description ?? frontmatter?.Description;
     const description = typeof rawDescription === "string" ? rawDescription.trim() : "";
     const subtitle = isBlogpost && description ? h("p", { class: "article-subtitle" }, description) : null;
     if (!rendered) return subtitle;

@@ -7,6 +7,11 @@ body article a.internal.internal-link {
   border-radius: 0;
 }
 
+.article-title {
+  font-size: 40px;
+  line-height: 1.15;
+}
+
 /* Keep long-form reading content narrow while preserving room for sidebars. */
 @media (min-width: 801px) {
   .page[data-frame="default"] > #quartz-body > .center {
@@ -30,6 +35,21 @@ body article a.internal.internal-link {
 .center > article p {
   margin-top: 1.2em;
   margin-bottom: 1.2em;
+}
+
+@media (max-width: 800px) {
+  .article-title {
+    font-size: 32px;
+  }
+
+  .center > article {
+    font-size: 18px;
+    line-height: 1.65;
+  }
+
+  .center > article :is(p, li) {
+    line-height: 1.65;
+  }
 }
 
 /* Blog descriptions are rendered as subtitles, so suppress the properties panel. */
