@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-10T17:47:24.284Z
-modified: 2026-08-10T12:36:04.434Z
-published: 2026-08-10T12:36:04.434Z
+created: 2026-08-01T17:19:08.535Z
+modified: 2026-08-19T15:00:10.818Z
+published: 2026-08-19T15:00:10.818Z
 tags:
   - topic/learning
 up:
@@ -97,7 +97,7 @@ transform captured thoughts into atomic notes
 3. profit?
 
 - Leavarage atomic notes as much as possible
-- AI is a nice way to find relevant quotes from famous people
+- AI is a nice way to find relevant quotes from
 
 # See also
 

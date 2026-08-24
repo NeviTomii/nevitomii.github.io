@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-09T10:37:43.433Z
-modified: 2026-08-17T07:07:53.172Z
-published: 2026-08-17T07:07:53.172Z
+created: 2026-08-09T10:37:44.473Z
+modified: 2026-08-17T07:07:53.171Z
+published: 2026-08-17T07:07:53.171Z
 tags:
   - atomic
   - topic/worldOpinions

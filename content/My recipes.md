@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-13T10:53:45.589Z
-modified: 2026-08-13T06:31:44.265Z
-published: 2026-08-13T06:31:44.265Z
+created: 2026-08-01T17:19:09.358Z
+modified: 2026-08-23T20:45:26.907Z
+published: 2026-08-23T20:45:26.907Z
 tags:
   - topic/cooking
 up:
@@ -30,3 +30,4 @@ up:
 | Jméno                | Source                                                                                     |
 | -------------------- | ------------------------------------------------------------------------------------------ |
 | [[štouchané batáty]] | <https://www.youtube.com/watch?v=tdvq-XCNVs4> |
+| mrkvový dort         | https://youtube.com/shorts/\_ZWeLcbIXQA                                                     |

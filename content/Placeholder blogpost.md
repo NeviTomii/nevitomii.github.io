@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-10T17:47:27.018Z
-modified: 2026-08-10T09:24:15.577Z
-published: 2026-08-10T09:24:15.577Z
+created: 2026-08-03T19:19:39.981Z
+modified: 2026-08-10T09:24:05.563Z
+published: 2026-08-10T09:24:05.563Z
 tags:
   - Blog
 up:

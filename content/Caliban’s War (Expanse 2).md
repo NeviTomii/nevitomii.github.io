@@ -1,6 +1,6 @@
 ---
 publish: true
-created: 2026-08-01T17:19:00.124Z
+created: 2026-08-01T17:19:09.367Z
 modified: 2026-08-09T13:08:32.573Z
 published: 2026-08-09T13:08:32.573Z
 tags: "#Book"

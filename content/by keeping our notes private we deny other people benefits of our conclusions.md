@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-10T17:47:27.040Z
-modified: 2026-08-10T10:25:26.138Z
-published: 2026-08-10T10:25:26.138Z
+created: 2026-08-04T06:01:18.580Z
+modified: 2026-08-10T10:25:17.127Z
+published: 2026-08-10T10:25:17.127Z
 tags:
   - atomic
 up:

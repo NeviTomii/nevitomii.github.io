@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-08-01T17:19:00.207Z
-modified: 2026-08-09T13:07:32.783Z
+created: 2026-08-01T17:19:08.222Z
+modified: 2026-08-09T13:07:32.782Z
 published: 2014/01/28
 tags: "#Book"
 Title: Red Rising

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-12T19:05:11.992Z
-modified: 2026-08-17T06:27:51.845Z
-published: 2026-08-17T06:27:51.845Z
+created: 2026-08-09T20:21:02.087Z
+modified: 2026-08-22T09:57:27.631Z
+published: 2026-08-22T09:57:27.631Z
 tags:
   - "#Book"
 Title: Gleanings from the Writings of Baha'u'llah
@@ -33,3 +33,7 @@ want-to-buy: false
 co udělalo prostor pro baba a bahaullah v polovině 19. století?
 
 advent awakening a shaykhi movemwnt
+
+kapitola 13 co začíná na straně 11
+není to moc nadávání židům?
+"takový je dosah poznání těch malicherných nicotných lidí"

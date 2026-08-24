@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-12T19:04:10.427Z
-modified: 2026-08-17T14:10:37.585Z
-published: 2026-08-17T14:10:37.585Z
+created: 2026-08-01T17:19:09.333Z
+modified: 2026-08-17T14:10:37.584Z
+published: 2026-08-17T14:10:37.584Z
 tags:
   - Blog
   - topic/learning

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-13T10:53:58.473Z
-modified: 2026-08-13T06:39:08.582Z
-published: 2026-08-13T06:39:08.582Z
+created: 2026-08-13T06:31:40.115Z
+modified: 2026-08-19T15:47:59.418Z
+published: 2026-08-19T15:47:59.418Z
 up:
   - "[[My recipes]]"
 ---
@@ -22,7 +22,7 @@ up:
 
 - vejce a cukr vyšlehat do husté pěny
 - předehřát troubu 170
-- přidat kakao, pol. mouka, olej, prášek o pečiva
+- přidat kakao, pol. mouka, rostl olej, prášek o pečiva
 - promíchat metlou
 - trouba 170 stupnů 10 minut
 - Tvaroh, mascarpone, med
