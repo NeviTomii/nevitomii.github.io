@@ -1,11 +1,11 @@
 ---
 publish: true
 created: 2026-08-01T17:19:09.333Z
-modified: 2026-08-17T14:10:37.584Z
-published: 2026-08-17T14:10:37.584Z
+modified: 2026-08-27T21:06:40.288Z
+published: 2026-08-27T21:06:40.288Z
 tags:
-  - Blog
   - topic/learning
+  - Blog
 up:
   - "[[Blog]]"
 blogDescription: Motivation is a scarce resource. What is the best way to spend it?
