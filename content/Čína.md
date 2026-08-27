@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-01T17:19:08.827Z
-modified: 2026-08-03T19:43:36.279Z
-published: 2026-08-03T19:43:36.279Z
+modified: 2026-08-26T12:25:11.723Z
+published: 2026-08-26T12:25:11.723Z
 up:
   - "[[My recipes]]"
 ---
@@ -35,6 +35,8 @@ up:
 
 - připravím si 1-2 stroužky česneku
 
+- (optional) dám vařit rýži
+
 - na pánev dám olej na vysokou teplotu (max, až začne syčet kapka vody v oleji tak nechám 6/7)
 
 - přidám cibuli - nemusí být propečená skoro vubec, s masem se udělá dost
@@ -46,5 +48,7 @@ up:
 - když maso přestane vypadat syrově přisypu mraženou zeleninu
 
 - podleju sojovkou
+
+- (optional) čtvrt lžičky msg a 1 lžičky rýžový ocet
 
 - nechám 10 minut pod pokličkou, snížim teplotu o jeden (poklička udrží teplo)

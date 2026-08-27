@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-01T17:19:07.763Z
-modified: 2026-08-10T11:23:31.079Z
-published: 2026-08-10T11:23:31.079Z
+modified: 2026-08-27T19:55:31.569Z
+published: 2026-08-27T19:55:31.569Z
 up:
   - "[[Hobbies]]"
 ---
@@ -10,11 +10,15 @@ up:
 # Look into:
 
 - international protocols and country level allocation of resources
-- making a startup in europe
+- making a startup in europe - carpets, pictures, SAI
 
 # Ways to learn
 
-- university lectures online (or in person?)
+- university or other formal lectures online
+  - https://ch.u-tokyo.ac.jp/series/?id=SdaBAdPpZJpt
+  - https://legal.un.org/avl/ls/intlorganizations.html
+  - https://www.coursera.org/learn/international-organizations-management
+  - https://www.ywf.world/lectures
 - read scientific papers
   - subscribe to a journal?
 - youtube

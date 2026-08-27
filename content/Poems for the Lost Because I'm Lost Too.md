@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-01T17:19:08.807Z
-modified: 2026-08-17T06:39:44.783Z
-published: 2026-08-17T06:39:44.783Z
+modified: 2026-08-27T18:04:22.843Z
+published: 2026-08-27T18:04:22.843Z
 tags: "#Book"
 Title: Poems for the Lost Because I'm Lost Too
 Author: Exurb1a
@@ -17,9 +17,10 @@ Cover: "[[Poems for the Lost Because I'm Lost Too — Exurb1a.jpg]]"
 Link: https://www.goodreads.com/book/show/63905047
 up: "[[Reading]]"
 Own: true
-Read: false
-years-read: ""
-rating: ""
+Read: true
+years-read:
+  - "2026"
+rating: "7"
 want-to-buy: false
 ---
 

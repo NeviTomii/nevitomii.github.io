@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-08-09T10:01:16.788Z
-modified: 2026-08-17T10:01:34.488Z
-published: 2026-08-17T10:01:34.488Z
+modified: 2026-08-27T18:42:52.236Z
+published: 2026-08-27T18:42:52.236Z
 tags:
-  - topic/worldOpinions
+  - topic/politics
   - atomic
 sr-due: 2026-09-14
 sr-interval: 28

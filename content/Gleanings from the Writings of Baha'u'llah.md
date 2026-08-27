@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-09T20:21:02.087Z
-modified: 2026-08-22T09:57:27.631Z
-published: 2026-08-22T09:57:27.631Z
+modified: 2026-08-27T19:27:47.025Z
+published: 2026-08-27T19:27:47.025Z
 tags:
   - "#Book"
 Title: Gleanings from the Writings of Baha'u'llah
@@ -37,3 +37,14 @@ advent awakening a shaykhi movemwnt
 kapitola 13 co začíná na straně 11
 není to moc nadávání židům?
 "takový je dosah poznání těch malicherných nicotných lidí"
+
+kapitila 14 p16
+první odstavec je pěknej na sraz
+
+jaká je pointa obraznosti náboženského jazyka?
+
+necitelnost gleanings a dalsích je schválně, pointa není rozumět a něco se dozvědět, pointa je zamyslet se, ne nutně nad danym textem
+
+thoughts spawned:
+
+[[Religious texts are difficult to read for engagement bait]]

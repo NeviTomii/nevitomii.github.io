@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-08-05T17:17:59.987Z
-modified: 2026-08-17T06:46:14.238Z
-published: 2026-08-17T06:46:14.238Z
+modified: 2026-08-27T19:37:05.010Z
+published: 2026-08-27T19:37:05.010Z
 tags:
-  - topic/selfUnderstanding
+  - topic/philosophy
   - atomic
 sr-due: 2026-09-20
 sr-interval: 34

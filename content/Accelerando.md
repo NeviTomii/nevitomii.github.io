@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-01T17:19:08.618Z
-modified: 2026-08-09T13:08:54.187Z
-published: 2026-08-09T13:08:54.187Z
+modified: 2026-08-27T19:46:57.024Z
+published: 2026-08-27T19:46:57.024Z
 tags: "#Book"
 Title: Accelerando
 Author: Charles Stross
@@ -17,8 +17,19 @@ Cover: "[[Accelerando — Charles Stross.jpg]]"
 Link: https://www.goodreads.com/book/show/17863
 up: "[[Reading]]"
 Own: false
-Read: false
-years-read: ""
-rating: ""
+Read: true
+years-read:
+  - "2026"
+rating: "8"
 want-to-buy: false
 ---
+
+This book really puts into context what accelerating technological advancement may look like
+
+mostly felt like a cautionary tale
+
+mentioning how our legal system has to be able to evolve rapidly
+
+---
+
+p387 - [[consciousness was an evolutionary accident]]

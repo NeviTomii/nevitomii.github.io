@@ -23,11 +23,11 @@ You can reach me on [X](https://x.com/NeviTomii), or by email at tomas.zamouril@
 
 ## Most recent blogposts
 
-| Cover                                                   | Title                                                                                             | Created        | Description                                                        |
-| ------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | -------------- | ------------------------------------------------------------------ |
-| ![[Placeholder blogpost.png\|Placeholder blogpost.png]] | [[Placeholder blogpost.md\|Placeholder blogpost]]                                                 | August 3, 2026 | ahoj tohle je description                                          |
-| -                                                      | [[how much water use per day.md\|how much water use per day]]                                     | August 1, 2026 | -                                                                 |
-| ![[blog.png\|blog.png]]                                 | [[Finding the motivation to do the right thing.md\|Finding the motivation to do the right thing]] | August 1, 2026 | Motivation is a scarce resource. What is the best way to spend it? |
+| Cover                                                   | Title                                                         | Created         | Description               |
+| ------------------------------------------------------- | ------------------------------------------------------------- | --------------- | ------------------------- |
+| -                                                      | [[world government.md\|world government]]                     | August 12, 2026 | -                        |
+| ![[Placeholder blogpost.png\|Placeholder blogpost.png]] | [[Placeholder blogpost.md\|Placeholder blogpost]]             | August 3, 2026  | ahoj tohle je description |
+| -                                                      | [[how much water use per day.md\|how much water use per day]] | August 1, 2026  | -                        |
 
 ### Click [[Blog|Here]] for more
 
