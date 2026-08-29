@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-01T17:19:08.535Z
-modified: 2026-08-19T15:00:10.818Z
-published: 2026-08-19T15:00:10.818Z
+created: 2026-08-19T16:08:26.848Z
+modified: 2026-08-29T09:51:10.593Z
+published: 2026-08-29T09:51:10.593Z
 tags:
   - topic/learning
 up:
@@ -97,7 +97,12 @@ transform captured thoughts into atomic notes
 3. profit?
 
 - Leavarage atomic notes as much as possible
-- AI is a nice way to find relevant quotes from
+- Keep people reading (from [How Veritasium gets views](https://www.youtube.com/watch?v=QHhJ8_TJeNo))
+  - people don't pay attention when they think they know what you're talking about
+  - title isn't supposed to be topic, it's supposed to capture interest, answer a question
+  1. misconception
+  2. question first explanation after
+  3. technical a plot interesting b plot (not as relevant to writing?)
 
 # See also
 

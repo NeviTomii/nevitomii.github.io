@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-01T17:19:09.358Z
-modified: 2026-08-23T20:45:26.907Z
-published: 2026-08-23T20:45:26.907Z
+created: 2026-08-24T11:56:08.488Z
+modified: 2026-08-29T10:42:55.661Z
+published: 2026-08-29T10:42:55.661Z
 tags:
   - topic/cooking
 up:
@@ -24,6 +24,7 @@ up:
 | [[Kuře s rajčatovou omáčkou]] | hlavní jídlo       | sporák        | střední   |
 | [[Párek s těstovinami]]       | hlavní jídlo       | sporák        | střední   |
 | [[Kinder řezy]]               | dezert             | trouba        | střední   |
+| [[Hard boiled eggs]]          | příloha            | airfryer      | lehké     |
 
 # List of recipes to try:
 

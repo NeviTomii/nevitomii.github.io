@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-01T17:19:09.226Z
-modified: 2026-08-09T13:07:37.615Z
-published: 2026-08-09T13:07:37.615Z
+created: 2026-08-01T17:19:00.192Z
+modified: 2026-08-09T13:07:37.616Z
+published: 2026-08-09T13:07:37.616Z
 tags: "#Book"
 Title: Nemesis Games
 Author: James S.A. Corey

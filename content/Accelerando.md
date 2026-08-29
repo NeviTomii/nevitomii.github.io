@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-01T17:19:08.618Z
-modified: 2026-08-27T19:46:57.024Z
-published: 2026-08-27T19:46:57.024Z
+created: 2026-08-27T19:47:10.396Z
+modified: 2026-08-27T19:47:04.730Z
+published: 2026-08-27T19:47:04.730Z
 tags: "#Book"
 Title: Accelerando
 Author: Charles Stross

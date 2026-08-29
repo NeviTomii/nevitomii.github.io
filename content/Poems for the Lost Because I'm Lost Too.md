@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-01T17:19:08.807Z
-modified: 2026-08-27T18:04:22.843Z
-published: 2026-08-27T18:04:22.843Z
+created: 2026-08-27T18:04:34.823Z
+modified: 2026-08-27T18:04:29.419Z
+published: 2026-08-27T18:04:29.419Z
 tags: "#Book"
 Title: Poems for the Lost Because I'm Lost Too
 Author: Exurb1a

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-09T20:21:02.087Z
-modified: 2026-08-27T19:27:47.025Z
-published: 2026-08-27T19:27:47.025Z
+created: 2026-08-27T19:27:54.735Z
+modified: 2026-08-27T19:27:52.836Z
+published: 2026-08-27T19:27:52.836Z
 tags:
   - "#Book"
 Title: Gleanings from the Writings of Baha'u'llah

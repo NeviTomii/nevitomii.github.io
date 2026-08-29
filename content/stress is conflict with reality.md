@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-05T17:17:59.987Z
-modified: 2026-08-27T19:37:05.010Z
-published: 2026-08-27T19:37:05.010Z
+created: 2026-08-27T19:37:13.641Z
+modified: 2026-08-27T19:37:10.506Z
+published: 2026-08-27T19:37:10.506Z
 tags:
   - topic/philosophy
   - atomic
