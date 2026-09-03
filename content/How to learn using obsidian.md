@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-19T16:08:26.848Z
-modified: 2026-08-29T09:51:10.593Z
-published: 2026-08-29T09:51:10.593Z
+created: 2026-08-01T17:19:08.535Z
+modified: 2026-08-29T09:51:10.592Z
+published: 2026-08-29T09:51:10.592Z
 tags:
   - topic/learning
 up:

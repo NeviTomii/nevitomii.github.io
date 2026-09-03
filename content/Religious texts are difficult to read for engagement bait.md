@@ -1,16 +1,16 @@
 ---
 publish: true
-created: 2026-08-29T08:36:05.701Z
-modified: 2026-08-29T08:31:20.889Z
-published: 2026-08-29T08:31:20.889Z
+created: 2026-08-27T17:41:55.370Z
+modified: 2026-09-02T12:08:02.108Z
+published: 2026-09-02T12:08:02.108Z
 tags:
   - atomic
   - topic/religion
 up:
   - "[[Atomic]]"
-sr-due: 2026-09-02
-sr-interval: 4
-sr-ease: 270
+sr-due: 2026-09-17
+sr-interval: 15
+sr-ease: 290
 ---
 
 Religious texts are designed to be as approachable as possible. If they just had the information in plain language, it wouldn't appeal to as many people.

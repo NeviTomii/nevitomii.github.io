@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-28T06:39:28.249Z
-modified: 2026-08-27T21:06:45.732Z
-published: 2026-08-27T21:06:45.732Z
+created: 2026-08-01T17:19:09.333Z
+modified: 2026-09-02T12:13:49.426Z
+published: 2026-09-02T12:13:49.426Z
 tags:
   - topic/learning
   - Blog
@@ -38,7 +38,7 @@ Oftentimes the principles we hold lead us to areas we are not that comfortable w
 
 The issue is that moral demands compete with one another for the same limited supply of time, attention and willpower. Becoming vegan would require some sacrifice from me, while the effort spent making that change is effort I cannot spend elsewhere. I still consider eating meat harmful, but I have to decide where my limited capacity for deliberate change can do the most good.
 
-I allow myself some comforts, because trying to optimize every part of my life would quickly exhaust the motivation I have. I would rather concentrate that motivation on the areas where my abilities can have the greatest effect.
+I allow myself some comforts, because trying to optimize every part of my life would quickly exhaust the motivation I have. I would rather concentrate that motivation on areas where my abilities can have the greatest effect.
 
 # Moving from reason to results
 

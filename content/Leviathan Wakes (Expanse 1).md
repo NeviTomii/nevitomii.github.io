@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-01T17:19:00.172Z
-modified: 2026-08-09T13:07:43.061Z
-published: 2026-08-09T13:07:43.061Z
+created: 2026-08-01T17:19:08.318Z
+modified: 2026-08-09T13:07:43.060Z
+published: 2026-08-09T13:07:43.060Z
 tags: "#Book"
 Title: Leviathan Wakes
 Author: James S.A. Corey

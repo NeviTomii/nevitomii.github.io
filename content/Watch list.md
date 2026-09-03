@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-27T20:12:09.630Z
-modified: 2026-08-27T20:12:05.786Z
-published: 2026-08-27T20:12:05.786Z
+created: 2026-08-01T17:19:08.438Z
+modified: 2026-08-27T20:11:59.391Z
+published: 2026-08-27T20:11:59.391Z
 up:
   - "[[Movies, series, podcasts]]"
 tags:

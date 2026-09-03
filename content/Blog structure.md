@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-03T19:22:48.399Z
-modified: 2026-08-09T20:25:14.650Z
-published: 2026-08-09T20:25:14.650Z
+created: 2026-08-03T19:22:49.286Z
+modified: 2026-08-09T20:25:14.649Z
+published: 2026-08-09T20:25:14.649Z
 up:
   - "[[Index]]"
 ---

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-27T18:43:06.777Z
-modified: 2026-08-27T18:42:59.084Z
-published: 2026-08-27T18:42:59.084Z
+created: 2026-08-01T17:19:09.102Z
+modified: 2026-08-27T18:42:52.428Z
+published: 2026-08-27T18:42:52.428Z
 tags:
   - atomic
   - topic/politics

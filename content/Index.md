@@ -1,9 +1,9 @@
 ---
 publish: true
 title: Hi, I'm Tomo
-created: 2026-08-28T06:39:28.233Z
-modified: 2026-08-27T21:12:32.869Z
-published: 2026-08-27T21:12:32.869Z
+created: 2026-08-01T17:19:09.147Z
+modified: 2026-08-27T21:12:25.043Z
+published: 2026-08-27T21:12:25.043Z
 cssclasses:
   - hideReadTime
   - hideDate
@@ -23,10 +23,10 @@ You can reach me on [X](https://x.com/NeviTomii), or by email at tomas.zamouril@
 
 ## Most recent blogposts
 
-| Cover                                                   | Title                                                                                             | Created         | Description                                                        |
-| ------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | --------------- | ------------------------------------------------------------------ |
-| ![[blog.png\|blog.png]]                                 | [[Finding the Motivation to Do the Right Thing.md\|Finding the Motivation to Do the Right Thing]] | August 28, 2026 | Motivation is a scarce resource. What is the best way to spend it? |
-| ![[Placeholder blogpost.png\|Placeholder blogpost.png]] | [[Placeholder blogpost.md\|Placeholder blogpost]]                                                 | August 10, 2026 | ahoj tohle je description                                          |
+| Cover                                                 | Title                                                                                             | Created         | Description                                                        |
+| ----------------------------------------------------- | ------------------------------------------------------------------------------------------------- | --------------- | ------------------------------------------------------------------ |
+| ![[My AI policy better.png\|My AI policy better.png]] | [[My AI policy.md\|My AI policy]]                                                                 | August 24, 2026 | using models without losing authorship; moralizing AI              |
+| ![[blog.png\|blog.png]]                               | [[Finding the Motivation to Do the Right Thing.md\|Finding the Motivation to Do the Right Thing]] | August 1, 2026  | Motivation is a scarce resource. What is the best way to spend it? |
 
 ### Click [[Blog|Here]] for more
 

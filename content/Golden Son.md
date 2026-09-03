@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-08-01T17:19:00.146Z
-modified: 2026-08-09T13:08:03.908Z
+created: 2026-08-01T17:19:08.840Z
+modified: 2026-08-09T13:08:03.907Z
 published: 2015/01/06
 tags: "#Book"
 Title: Golden Son

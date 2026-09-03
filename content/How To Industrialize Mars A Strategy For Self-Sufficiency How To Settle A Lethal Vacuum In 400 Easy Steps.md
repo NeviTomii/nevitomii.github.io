@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-01T17:19:00.163Z
-modified: 2026-08-09T13:07:51.128Z
-published: 2026-08-09T13:07:51.128Z
+created: 2026-08-01T17:19:09.112Z
+modified: 2026-08-09T13:07:51.127Z
+published: 2026-08-09T13:07:51.127Z
 tags: "#Book"
 Title: "How To Industrialize Mars: A Strategy For Self-Sufficiency: How To Settle A Lethal Vacuum In 400 Easy Steps"
 Author: Casey Handmer

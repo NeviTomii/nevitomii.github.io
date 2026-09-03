@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-01T17:19:00.175Z
-modified: 2026-08-09T13:07:40.828Z
-published: 2026-08-09T13:07:40.828Z
+created: 2026-08-01T17:19:07.705Z
+modified: 2026-08-09T13:07:40.827Z
+published: 2026-08-09T13:07:40.827Z
 tags: "#Book"
 Title: "Logic Beach: Part I"
 Author: Exurb1a

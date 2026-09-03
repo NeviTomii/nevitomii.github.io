@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-28T06:39:28.144Z
-modified: 2026-08-27T21:03:24.116Z
-published: 2026-08-27T21:03:24.116Z
+created: 2026-08-01T17:19:07.664Z
+modified: 2026-08-27T21:03:13.502Z
+published: 2026-08-27T21:03:13.502Z
 tags:
 ---
 

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-27T19:55:44.365Z
-modified: 2026-08-27T19:55:39.874Z
-published: 2026-08-27T19:55:39.874Z
+created: 2026-08-01T17:19:07.763Z
+modified: 2026-08-27T19:55:31.569Z
+published: 2026-08-27T19:55:31.569Z
 up:
   - "[[Hobbies]]"
 ---
