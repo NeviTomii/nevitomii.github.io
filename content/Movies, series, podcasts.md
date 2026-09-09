@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-08-01T17:19:08.484Z
-modified: 2026-08-27T20:11:54.857Z
-published: 2026-08-27T20:11:54.857Z
+modified: 2026-09-09T11:21:13.407Z
+published: 2026-09-09T11:21:13.407Z
 up:
-  - "[[Hobbies]]"
+  - "[[Interests]]"
 ---
 
 Luckily I'm not the type of person to keep track of everything I've watched, but only sporadically once every few years, with huge gaps, and with changing opinions.

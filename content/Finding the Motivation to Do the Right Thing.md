@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-01T17:19:09.333Z
-modified: 2026-09-02T12:13:49.426Z
-published: 2026-09-02T12:13:49.426Z
+modified: 2026-09-06T12:00:48.215Z
+published: 2026-09-06T12:00:48.215Z
 tags:
   - topic/learning
   - Blog
@@ -26,7 +26,7 @@ Let's start with the former. If there was a way to improve the world by grinding
 
 For me personally, I believe [[our future is in space]]. I think rockets are cool and if I had the option to go back a few years, pick an engineering school and move my entire life to Florida/Texas, That's what I would be working on.
 
-My other strong belief is that we should be (and are) moving towards a single [[world government]] and any way we can speed up the transition is very important to me. However I find politics to be appalling and get no enjoyment from convincing uninterested people or building channels for international cooperation. That's where the other source of motivation comes in.
+My other strong belief is that we should be (and are) moving towards a single [[Why We Need a World Government|World government]] and any way we can speed up the transition is very important to me. However I find politics to be appalling and get no enjoyment from convincing uninterested people or building channels for international cooperation. That's where the other source of motivation comes in.
 
 # Moral/religious imperative
 
@@ -46,6 +46,6 @@ In this way, we have reasoned our way into knowing what the good thing to do is.
 
 This is the part I struggle with immensely, so my advice may not be universally applicable. What has worked for me is setting aside a reasonably small amount of time each day, enough to make visible progress over some time, but not so much that the effort becomes exhausting and I start feeling that I am wasting my limited free time on something that isn't going anywhere.
 
-By spending just 30 minutes every day taking care of this note vault and blog, I slowly but surely add value to it while still leaving myself enough time to rest after work. Hopefully, after doing this for long enough, managing my notes will become almost automatic. From there, I can gradually increase the amount of effort spent on harder things — projects where interest and principle tell me my time is actually worth spending.
+By spending just 15-30 minutes every day taking care of this note vault and blog, I slowly but surely add value to it while still leaving myself enough time to rest after work. Hopefully, after doing this for long enough, managing my notes will become almost automatic. From there, I can gradually increase the amount of effort spent on harder things — projects where interest and principle tell me my time is actually worth spending.
 
 ![[blog.png|553]]

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-24T12:17:27.187Z
-modified: 2026-09-03T07:22:13.003Z
-published: 2026-09-03T07:22:13.003Z
+modified: 2026-09-09T11:22:21.159Z
+published: 2026-09-09T11:22:21.159Z
 tags:
   - topic/technology
   - topic/politics
@@ -15,7 +15,7 @@ blogCover: "[[My AI policy better.png]]"
 
 I never let AI dictate what this blog is about. I do let it rephrase my middle-school-level sentences so that reading this is tolerable for more people than just me.
 
-What that means practically is that I find something interesting to write about, read until I'm confident I can defend my claims, attempt to write a post without help, and, after failing a few times, ask an agent to make the language bearable while keeping all the information intact.
+What that means practically is that I find something interesting to write about, read until I'm confident I can defend my claims, attempt to write a post without help, and, after failing a few times, ask an agent to make the language bearable while keeping all the information intact. I still make effort to keep the text as mine as possible.
 
 This is what AI (and intelligence in general) should be for. People come up with all sorts of ideas, ranging from terrible to decent, and we should decide which is which based on their merit, not on whether they arrive in a pretty paragraph.
 

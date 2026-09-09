@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-08-01T17:19:09.179Z
-modified: 2026-08-27T20:58:22.204Z
-published: 2026-08-27T20:58:22.204Z
+modified: 2026-09-09T11:21:13.673Z
+published: 2026-09-09T11:21:13.673Z
 up:
-  - "[[Hobbies]]"
+  - "[[Interests]]"
 ---
 
 See individual book metadata properties for data on each book.
@@ -54,8 +54,8 @@ for more inspiration on what to read next visit [casey Handmer's blog](https://c
 |[[Babylon’s Ashes \(Expanse 6\|Babylon’s Ashes (Expanse 6)]])|James S.A. Corey|532|8|1|
 |[[Leviathan Falls \(Expanse 9\|Leviathan Falls (Expanse 9)]])|James S.A. Corey|528|8|1|
 |[[Leviathan Wakes \(Expanse 1\|Leviathan Wakes (Expanse 1)]])|James S.A. Corey|577|8|1|
-|[[Tiamat's Wrath \(Expanse 8\|Tiamat's Wrath (Expanse 8)]])|James S.A. Corey|534|8|1|
 |[[Abaddon’s Gate \(Expanse 3\|Abaddon’s Gate (Expanse 3)]])|James S.A. Corey|539|8|1|
+|[[Tiamat's Wrath \(Expanse 8\|Tiamat's Wrath (Expanse 8)]])|James S.A. Corey|534|8|1|
 |[[Persepolis Rising \(Expanse 7\|Persepolis Rising (Expanse 7)]])|James S.A. Corey|608|8|1|
 |[[Green Mars\|Green Mars]]|Kim Stanley Robinson|624|8|1|
 |[[Memory's Legion \(Expanse short stories\|Memory's Legion (Expanse short stories)]])|James S.A. Corey|423|8|1|

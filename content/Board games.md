@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-08-01T17:19:07.798Z
-modified: 2026-08-27T19:58:54.991Z
-published: 2026-08-27T19:58:54.991Z
+modified: 2026-09-09T11:21:12.797Z
+published: 2026-09-09T11:21:12.797Z
 up:
-  - "[[Hobbies]]"
+  - "[[Interests]]"
 ---
 
 [BGG](https://boardgamegeek.com/collection/user/NeviTomii) -board games i want to play and eventually buy

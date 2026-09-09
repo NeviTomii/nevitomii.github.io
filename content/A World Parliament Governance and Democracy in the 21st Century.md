@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-27T18:02:20.462Z
-modified: 2026-08-27T18:02:20.474Z
-published: 2026-08-27T18:02:20.474Z
+modified: 2026-09-06T09:33:29.739Z
+published: 2026-09-06T09:33:29.739Z
 tags: "#Book"
 Title: "A World Parliament: Governance and Democracy in the 21st Century"
 Author: Jo Leinen
@@ -22,3 +22,5 @@ years-read: ""
 rating: ""
 want-to-buy: false
 ---
+
+great historical rundown of itnernational and globalizing efforts

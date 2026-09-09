@@ -2,8 +2,8 @@
 publish: true
 title: Hi, I'm Tomo
 created: 2026-08-01T17:19:09.147Z
-modified: 2026-08-27T21:12:25.043Z
-published: 2026-08-27T21:12:25.043Z
+modified: 2026-09-09T11:21:13.179Z
+published: 2026-09-09T11:21:13.179Z
 cssclasses:
   - hideReadTime
   - hideDate
@@ -11,7 +11,7 @@ cssclasses:
 up:
 ---
 
-My full name is Tomáš Zamouřil. I’m 22 years old. I work as an accountant and in my free time I like to explore whatever [[Hobbies|captures my interest]]
+My full name is Tomáš Zamouřil. I’m 22 years old. I work as an accountant and in my free time I like to explore whatever [[Interests|captures my interest]]
 
 I am good at forgetting things, so I made this note vault to preserve ideas worth remembering. Those over time develop into [[Zettelkasten|Opinions]], and those with some (huge amounts of) luck later become [[Blog|Blogposts]].
 

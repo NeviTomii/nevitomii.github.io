@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-08-01T17:19:07.763Z
-modified: 2026-08-27T19:55:31.569Z
-published: 2026-08-27T19:55:31.569Z
+modified: 2026-09-09T11:21:13.269Z
+published: 2026-09-09T11:21:13.269Z
 up:
-  - "[[Hobbies]]"
+  - "[[Interests]]"
 ---
 
 # Look into:

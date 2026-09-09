@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-08-01T17:19:07.638Z
-modified: 2026-08-27T20:30:21.731Z
-published: 2026-08-27T20:30:21.731Z
+modified: 2026-09-09T11:21:13.747Z
+published: 2026-09-09T11:21:13.747Z
 up:
-  - "[[Hobbies]]"
+  - "[[Interests]]"
 ---
 
 [My steam account](https://steamcommunity.com/id/NeviTomii/)

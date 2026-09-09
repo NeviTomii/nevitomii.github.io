@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-08-01T17:19:08.282Z
-modified: 2026-08-29T08:13:21.514Z
-published: 2026-08-29T08:13:21.514Z
+modified: 2026-09-09T11:21:13.593Z
+published: 2026-09-09T11:21:13.593Z
 up:
-  - "[[Hobbies]]"
+  - "[[Interests]]"
 ---
 
 As a [[Bahaí]] I try to stay non-partisan when it comes to politics, so that I can avoid the hostility and rivalry between an opposing political party from what I would have chosen. Being able to have an open dialogue and promote unity is a lot more important than owning people on twitter.
@@ -13,7 +13,7 @@ That doesn't mean I stay ignorant to what is happening in the world. In a democr
 
 # Uniting the world
 
-What I view as a number one priority in the world right now is creating a [[world government|supra-national governing body]], with real authority, legitimacy and enforcement capacity. Existence of such institution massively promotes unity, cooperation and justice between nations. This stands in contrast to the current international system of power politics resembling survival of the fittest.
+What I view as a number one priority in the world right now is creating a [[Why We Need a World Government|supra-national governing body]], with real authority, legitimacy and enforcement capacity. Existence of such institution massively promotes unity, cooperation and justice between nations. This stands in contrast to the current international system of power politics resembling survival of the fittest.
 
 Making the world government work opens up the possibility of effectively addressing all the other major problems that aren't solvable on a national level - climate change, war, migration, technological risks and many more.
 

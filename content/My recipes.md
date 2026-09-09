@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-01T17:19:09.358Z
-modified: 2026-08-29T10:42:55.661Z
-published: 2026-08-29T10:42:55.661Z
+modified: 2026-09-06T18:56:29.569Z
+published: 2026-09-06T18:56:29.569Z
 tags:
   - topic/cooking
 up:
@@ -25,6 +25,7 @@ up:
 | [[Párek s těstovinami]]       | hlavní jídlo       | sporák        | střední   |
 | [[Kinder řezy]]               | dezert             | trouba        | střední   |
 | [[Hard boiled eggs]]          | příloha            | airfryer      | lehké     |
+| [[kuřecí prsa]]               | hlavní jídlo       | friťák        | lehké     |
 
 # List of recipes to try:
 
@@ -32,3 +33,6 @@ up:
 | -------------------- | ------------------------------------------------------------------------------------------ |
 | [[štouchané batáty]] | <https://www.youtube.com/watch?v=tdvq-XCNVs4> |
 | mrkvový dort         | https://youtube.com/shorts/\_ZWeLcbIXQA                                                     |
+| banana bread         | https://www.youtube.com/watch?v=bScZ01UaYEM                                                |
+| banana bread 3550    | https://www.youtube.com/watch?v=EFibBc-pUtI                                                |
+| mrkvový dort 5730    | https://www.youtube.com/watch?v=EFibBc-pUtI                                                |
