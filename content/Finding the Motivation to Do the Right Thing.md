@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-01T17:19:09.333Z
-modified: 2026-09-06T12:00:48.215Z
-published: 2026-09-06T12:00:48.215Z
+modified: 2026-10-09T09:39:17.012Z
+published: 2026-10-09T09:39:17.012Z
 tags:
   - topic/learning
   - Blog
@@ -26,7 +26,7 @@ Let's start with the former. If there was a way to improve the world by grinding
 
 For me personally, I believe [[our future is in space]]. I think rockets are cool and if I had the option to go back a few years, pick an engineering school and move my entire life to Florida/Texas, That's what I would be working on.
 
-My other strong belief is that we should be (and are) moving towards a single [[Why We Need a World Government|World government]] and any way we can speed up the transition is very important to me. However I find politics to be appalling and get no enjoyment from convincing uninterested people or building channels for international cooperation. That's where the other source of motivation comes in.
+My other strong belief is that we should be (and are) moving towards a single [[World parliament should be everyone's number 1 priority|World government]] and any way we can speed up the transition is very important to me. However I find politics to be appalling and get no enjoyment from convincing uninterested people or building channels for international cooperation. That's where the other source of motivation comes in.
 
 # Moral/religious imperative
 

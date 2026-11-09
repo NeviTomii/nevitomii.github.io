@@ -1,16 +1,16 @@
 ---
 publish: true
 created: 2026-08-27T18:40:56.105Z
-modified: 2026-09-02T12:08:21.793Z
-published: 2026-09-02T12:08:21.793Z
+modified: 2026-09-28T08:39:05.254Z
+published: 2026-09-28T08:39:05.254Z
 tags:
   - atomic
   - topic/philosophy
 up:
   - "[[Atomic]]"
-sr-due: 2026-09-16
-sr-interval: 14
-sr-ease: 290
+sr-due: 2027-01-11
+sr-interval: 105
+sr-ease: 310
 ---
 
 There is only so much motivation I can have before exhausting myself. I should prioritize actions that:

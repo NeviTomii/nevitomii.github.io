@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-01T17:19:09.102Z
-modified: 2026-08-27T18:42:52.428Z
-published: 2026-08-27T18:42:52.428Z
+modified: 2026-09-28T08:45:43.347Z
+published: 2026-09-28T08:45:43.347Z
 tags:
   - atomic
   - topic/politics
@@ -26,7 +26,9 @@ I was under the assumption that people are outraged because income (and by exten
 
 # See also
 
-[[I can afford a house on my junior accountant income]] and [[only a tiny minority of current events is problematic]] for more reasons why we have life so good today
+[[I can afford a house on my junior accountant income]] and [[only a tiny minority of current events is problematic]] for more reasons why we are already living in a utopia
+
+[A tweet showing low inequality in America on an example](https://x.com/martinvars/status/2095842517191106683)
 
 # Sources
 

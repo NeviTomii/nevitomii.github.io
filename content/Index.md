@@ -11,7 +11,7 @@ cssclasses:
 up:
 ---
 
-My full name is Tomáš Zamouřil. I’m 22 years old. I work as an accountant and in my free time I like to explore whatever [[Interests|captures my interest]]
+My full name is Tomáš Zamouřil. I’m 23 years old. I work as an accountant and in my free time I like to explore whatever [[Interests|captures my interest]]
 
 I am good at forgetting things, so I made this note vault to preserve ideas worth remembering. Those over time develop into [[Zettelkasten|Opinions]], and those with some (huge amounts of) luck later become [[Blog|Blogposts]].
 

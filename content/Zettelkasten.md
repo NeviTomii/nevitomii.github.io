@@ -21,7 +21,7 @@ To learn how to use Zettelkasten see [[How to learn using obsidian]]
 | [[only a tiny minority of current events is problematic.md\|only a tiny minority of current events is problematic]]                                                 | Aug 21, 2026 |
 | [[I can afford a house on my junior accountant income.md\|I can afford a house on my junior accountant income]]                                                     | Aug 09, 2026 |
 | [[extinction of inteligence is more pressing than extinction of humans.md\|extinction of inteligence is more pressing than extinction of humans]]                   | Aug 09, 2026 |
+| [[Europe is warming noticably faster than global average.md\|Europe is warming noticably faster than global average]]                                               | Aug 08, 2026 |
 | [[stress is conflict with reality.md\|stress is conflict with reality]]                                                                                             | Aug 05, 2026 |
 | [[by keeping our notes private we deny other people benefits of our conclusions.md\|by keeping our notes private we deny other people benefits of our conclusions]] | Aug 04, 2026 |
 | [[Focusing too much on productivity is unproductive.md\|Focusing too much on productivity is unproductive]]                                                         | Aug 01, 2026 |
-| [[income inequality is going down.md\|income inequality is going down]]                                                                                             | Aug 01, 2026 |

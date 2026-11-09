@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-08-05T17:17:59.987Z
-modified: 2026-08-27T19:37:05.010Z
-published: 2026-08-27T19:37:05.010Z
+modified: 2026-09-28T08:42:49.531Z
+published: 2026-09-28T08:42:49.531Z
 tags:
   - topic/philosophy
   - atomic
-sr-due: 2026-09-20
-sr-interval: 34
-sr-ease: 290
+sr-due: 2027-03-16
+sr-interval: 169
+sr-ease: 310
 up:
   - "[[Atomic]]"
 ---

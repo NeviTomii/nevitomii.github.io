@@ -1,16 +1,16 @@
 ---
 publish: true
 created: 2026-08-25T22:00:10.229Z
-modified: 2026-09-02T12:07:39.987Z
-published: 2026-09-02T12:07:39.987Z
+modified: 2026-09-28T08:42:17.412Z
+published: 2026-09-28T08:42:17.412Z
 tags:
   - topic/philosophy
   - atomic
 up:
   - "[[Atomic]]"
-sr-due: 2026-09-18
-sr-interval: 16
-sr-ease: 290
+sr-due: 2027-01-11
+sr-interval: 105
+sr-ease: 310
 ---
 
 in the evolutionary arms race between a predator and prey, you win by predicting your opponent accurately.

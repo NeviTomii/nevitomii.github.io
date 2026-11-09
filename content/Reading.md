@@ -24,14 +24,13 @@ for more inspiration on what to read next visit [casey Handmer's blog](https://c
 | [[Gleanings from the Writings of Baha'u'llah.md\|Gleanings from the Writings of Baha'u'llah]]                                                                                                                               | Bahá'u'lláh     | 431   |
 | [[A World Parliament Governance and Democracy in the 21st Century.md\|A World Parliament Governance and Democracy in the 21st Century]]                                                                                     | Jo Leinen       | 424   |
 | [[Exhalation.md\|Exhalation]]                                                                                                                                                                                               | Ted Chiang      | 368   |
-| [[Sublimia Syndrome.md\|Sublimia Syndrome]]                                                                                                                                                                                 | Exurb1a         | 296   |
 | [[Liftoff Elon Musk and the Desperate Early Days That Launched SpaceX.md\|Liftoff Elon Musk and the Desperate Early Days That Launched SpaceX]]                                                                             | Eric  Berger    | 288   |
 | [[Safe Is Not an Option.md\|Safe Is Not an Option]]                                                                                                                                                                         | Rand Simberg    | 242   |
 | [[How To Industrialize Mars A Strategy For Self-Sufficiency How To Settle A Lethal Vacuum In 400 Easy Steps.md\|How To Industrialize Mars A Strategy For Self-Sufficiency How To Settle A Lethal Vacuum In 400 Easy Steps]] | Casey Handmer   | 117   |
 
 # All books ordered by rating
 
-|Title34|Author|Pages (14,712)|Rating|Times read|
+|Title35|Author|Pages (15,008)|Rating|Times read|
 |---|---|---|---|---|
 |[[Star Wars Darth Bane - Path of Destruction\|Star Wars Darth Bane - Path of Destruction]]|Drew Karpyshyn|338|9|1|
 |[[Darth Plagueis\|Darth Plagueis]]|James Luceno|379|9|1|
@@ -52,10 +51,11 @@ for more inspiration on what to read next visit [casey Handmer's blog](https://c
 |[[Ra\|Ra]]|qntm|543|8|1|
 |[[Red Mars\|Red Mars]]|Kim Stanley Robinson|572|8|1|
 |[[Babylon’s Ashes \(Expanse 6\|Babylon’s Ashes (Expanse 6)]])|James S.A. Corey|532|8|1|
+|[[Sublimia Syndrome\|Sublimia Syndrome]]|Exurb1a|296|8|1|
 |[[Leviathan Falls \(Expanse 9\|Leviathan Falls (Expanse 9)]])|James S.A. Corey|528|8|1|
 |[[Leviathan Wakes \(Expanse 1\|Leviathan Wakes (Expanse 1)]])|James S.A. Corey|577|8|1|
-|[[Abaddon’s Gate \(Expanse 3\|Abaddon’s Gate (Expanse 3)]])|James S.A. Corey|539|8|1|
 |[[Tiamat's Wrath \(Expanse 8\|Tiamat's Wrath (Expanse 8)]])|James S.A. Corey|534|8|1|
+|[[Abaddon’s Gate \(Expanse 3\|Abaddon’s Gate (Expanse 3)]])|James S.A. Corey|539|8|1|
 |[[Persepolis Rising \(Expanse 7\|Persepolis Rising (Expanse 7)]])|James S.A. Corey|608|8|1|
 |[[Green Mars\|Green Mars]]|Kim Stanley Robinson|624|8|1|
 |[[Memory's Legion \(Expanse short stories\|Memory's Legion (Expanse short stories)]])|James S.A. Corey|423|8|1|
@@ -77,12 +77,13 @@ Dataview: No results to show for table query.
 
 # Books read in 2026
 
-|Title12|Author|Pages (5,295)|Rating|Times read overall|
+|Title13|Author|Pages (5,591)|Rating|Times read overall|
 |---|---|---|---|---|
 |[[Golden Son\|Golden Son]]|Pierce Brown|466|9|1|
 |[[Morning Star\|Morning Star]]|Pierce Brown|524|9|1|
 |[[Accelerando\|Accelerando]]|Charles Stross|415|8|1|
 |[[Babylon’s Ashes \(Expanse 6\|Babylon’s Ashes (Expanse 6)]])|James S.A. Corey|532|8|1|
+|[[Sublimia Syndrome\|Sublimia Syndrome]]|Exurb1a|296|8|1|
 |[[Leviathan Falls \(Expanse 9\|Leviathan Falls (Expanse 9)]])|James S.A. Corey|528|8|1|
 |[[Tiamat's Wrath \(Expanse 8\|Tiamat's Wrath (Expanse 8)]])|James S.A. Corey|534|8|1|
 |[[Persepolis Rising \(Expanse 7\|Persepolis Rising (Expanse 7)]])|James S.A. Corey|608|8|1|

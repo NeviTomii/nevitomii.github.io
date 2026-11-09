@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-01T17:19:08.133Z
-modified: 2026-08-09T13:07:29.593Z
+modified: 2026-11-06T07:24:37.620Z
 published: 2025/08/29
 tags: "#Book"
 Title: Sublimia Syndrome
@@ -17,8 +17,9 @@ Cover: "[[Sublimia Syndrome — Exurb1a.jpg]]"
 Link: https://www.goodreads.com/book/show/240952237
 up: "[[Reading]]"
 Own: true
-Read: false
-years-read: ""
-rating:
+Read: true
+years-read:
+  - "2026"
+rating: "8"
 want-to-buy: false
 ---

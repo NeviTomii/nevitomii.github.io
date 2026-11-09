@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-01T17:19:08.438Z
-modified: 2026-08-27T20:11:59.391Z
-published: 2026-08-27T20:11:59.391Z
+modified: 2026-10-01T16:08:04.343Z
+published: 2026-10-01T16:08:04.343Z
 up:
   - "[[Movies, series, podcasts]]"
 tags:
@@ -18,7 +18,6 @@ tags:
 # Series
 
 - Twin peaks
-- silicon valley
 - the diplomat
 - borgen
 - veep series
@@ -33,3 +32,9 @@ tags:
 - \[Astronomycast]\([Astronomy Cast | Take a facts-based journey through the universe.](https://www.astronomycast.com/)) - Fraser Cain
 - [Na Tahu DND]([https://www.youtube.com/@DnDNatahu]\(https://www.youtube.com/@DnDNatahu\))
 - [The program](https://rustyquill.com/show/the-program-audio-series/) - fiction
+- [midnight gospel](https://www.duncantrussell.com/midnightgospel)
+- [main engine cutoff](https://mainenginecutoff.com/podcast)
+
+---
+
+![[Watch list.png]]

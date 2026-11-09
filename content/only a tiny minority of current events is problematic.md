@@ -1,16 +1,16 @@
 ---
 publish: true
 created: 2026-08-20T22:00:06.998Z
-modified: 2026-08-29T08:32:43.366Z
-published: 2026-08-29T08:32:43.366Z
+modified: 2026-09-28T08:41:44.774Z
+published: 2026-09-28T08:41:44.774Z
 tags:
   - atomic
   - topic/politics
 up:
   - "[[Atomic]]"
-sr-due: 2026-09-17
-sr-interval: 19
-sr-ease: 290
+sr-due: 2027-01-27
+sr-interval: 121
+sr-ease: 310
 ---
 
 In the news and on social media we see mostly what is going wrong in the world. It's in our nature to focus on what needs fixing. However, what we don't realize is how much of what is happening is actually good.
